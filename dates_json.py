@@ -36,7 +36,6 @@ def get_ship_id(name_ship, owner, data):
             ship_id = d['id']
             Owner = ''.join(d['shipowner']['name'].split('"')).lower()
             owner = ''.join(owner.split('"')).lower()
-            print(owner, Owner, str(Owner).strip() == str(owner).strip())
             if Owner == owner:
                 return [ship_id, d['shipowner']['id']]
     return ['','']
@@ -86,14 +85,11 @@ def get_all(df, id_route, list_name, ships_js, dock_js):
             continue
         f = get_dock_id(list_name[0], row[7], dock_js)
         if row[5] == '':
-            print(1)
             ship_id, owner_id = get_ship_id(row[4], row[3], ships_js)
         else:
-            print(2)
             ship_id, owner_id = get_ship_id(row[5], row[3], ships_js)
             
         if f == '' or ship_id == '':
-            # print(f"***********{f}*****{ship_id} *******")
             continue
         
         if (id_route[0], ship_id, owner_id) in id_id:
