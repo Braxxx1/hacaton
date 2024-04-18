@@ -3,9 +3,10 @@ import pandas as pd
 
 def do_dict(name):
     global id, data, add_owners
-    if name not in add_owners and name != '':
+    name1 = ''.join(name.strip().split('"')).lower()
+    if name1.strip().lower() not in add_owners and name != '':
         id += 1
-        add_owners.add(name)
+        add_owners.add(name1.strip().lower())
         return {"id": id, "name":name, "inn":None, "ogrn":None, "contacts":None, "url":None}
     return ''
 
