@@ -122,10 +122,10 @@ def get_data_routes():
     return data
 
 def get_id_routes(sheet):
-    # if ficst_id == 0:
-    #     return set_id_routes[-1][sheet]
-    # return set_id_routes[ficst_id][sheet]
-    return [1, 1]
+    if ficst_id == 0:
+        return set_id_routes[-1][sheet]
+    return set_id_routes[ficst_id][sheet]
+    # return [1, 1]
     
 
 data = {'data':[]}

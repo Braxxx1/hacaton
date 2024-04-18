@@ -31,10 +31,12 @@ def get_dock_id(name_dock, letter, data):
 def get_ship_id(name_ship, owner, data):
 
     for d in data:
+        # print(d['name'], name_ship)
         if d['name'] == name_ship:
             ship_id = d['id']
-            Owner = ''.join(d['shipowner']['name'].split('"'))
-            print(owner, Owner, Owner == owner)
+            Owner = ''.join(d['shipowner']['name'].split('"')).lower()
+            owner = ''.join(owner.split('"')).lower()
+            print(owner, Owner, str(Owner).strip() == str(owner).strip())
             if Owner == owner:
                 return [ship_id, d['shipowner']['id']]
     return ['','']
@@ -89,6 +91,7 @@ def get_all(df, id_route, list_name, ships_js, dock_js):
         else:
             print(2)
             ship_id, owner_id = get_ship_id(row[5], row[3], ships_js)
+            
         if f == '' or ship_id == '':
             # print(f"***********{f}*****{ship_id} *******")
             continue
@@ -158,6 +161,8 @@ def get_data(df, sheets, list_name, ships_js, dock_js):
         df["Новое наименование причала"] = df["Новое наименование причала"].fillna("-")
         get_ones(df, ships_js, dock_js)
     else:
+        df.columns.values[5] = "Замена судна"
+        df["Замена судна"] = df["Замена судна"].fillna("")
         id_route = get_id_routes(sheets)
         get_all(df, id_route, list_name, ships_js, dock_js)
 
