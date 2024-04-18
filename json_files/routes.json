@@ -365,7 +365,7 @@
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
@@ -374,7 +374,7 @@
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
@@ -383,7 +383,7 @@
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
@@ -392,7 +392,7 @@
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
@@ -401,7 +401,7 @@
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
@@ -410,7 +410,7 @@
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
@@ -419,16 +419,7 @@
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 8,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -808,74 +799,65 @@
             ],
             "points": [
                 {
-                    "id": 9,
+                    "id": 8,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 10,
+                    "id": 9,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 11,
+                    "id": 10,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 12,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 13,
-                    "sequence": 5,
+                    "id": 11,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 14,
-                    "sequence": 6,
+                    "id": 12,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 15,
-                    "sequence": 7,
+                    "id": 13,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 16,
-                    "sequence": 8,
+                    "id": 14,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -1251,7 +1233,7 @@
             ],
             "points": [
                 {
-                    "id": 17,
+                    "id": 15,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -1260,62 +1242,53 @@
                     }
                 },
                 {
-                    "id": 18,
+                    "id": 16,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 19,
+                    "id": 17,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 20,
+                    "id": 18,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 21,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 22,
-                    "sequence": 6,
+                    "id": 19,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 23,
-                    "sequence": 7,
+                    "id": 20,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 24,
-                    "sequence": 8,
+                    "id": 21,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -1629,38 +1602,38 @@
             ],
             "points": [
                 {
-                    "id": 25,
+                    "id": 22,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 26,
+                    "id": 23,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 27,
+                    "id": 24,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 28,
+                    "id": 25,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -1933,38 +1906,38 @@
             ],
             "points": [
                 {
-                    "id": 29,
+                    "id": 26,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 30,
+                    "id": 27,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 31,
+                    "id": 28,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 32,
+                    "id": 29,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -2212,39 +2185,21 @@
             ],
             "points": [
                 {
-                    "id": 33,
+                    "id": 30,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
-                    }
-                },
-                {
-                    "id": 34,
-                    "sequence": 2,
-                    "direction": 1,
-                    "dock": {
-                        "id": 22,
+                        "id": 20,
                         "name": "Марьино"
                     }
                 },
                 {
-                    "id": 35,
-                    "sequence": 3,
+                    "id": 31,
+                    "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 23,
+                        "id": 21,
                         "name": "Братеево"
-                    }
-                },
-                {
-                    "id": 36,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
                     }
                 }
             ],
@@ -2341,38 +2296,38 @@
             ],
             "points": [
                 {
-                    "id": 37,
+                    "id": 32,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 38,
+                    "id": 33,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 25,
+                        "id": 23,
                         "name": "Серебряный Бор 3"
                     }
                 },
                 {
-                    "id": 39,
+                    "id": 34,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 40,
+                    "id": 35,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 }
@@ -2405,7 +2360,7 @@
             ],
             "points": [
                 {
-                    "id": 41,
+                    "id": 36,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -2414,25 +2369,25 @@
                     }
                 },
                 {
-                    "id": 42,
+                    "id": 37,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 43,
+                    "id": 38,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 44,
+                    "id": 39,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
@@ -2804,74 +2759,65 @@
             ],
             "points": [
                 {
-                    "id": 45,
+                    "id": 40,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 46,
+                    "id": 41,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 47,
+                    "id": 42,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 48,
+                    "id": 43,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 49,
+                    "id": 44,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 50,
+                    "id": 45,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 51,
+                    "id": 46,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 52,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -3251,74 +3197,65 @@
             ],
             "points": [
                 {
-                    "id": 53,
+                    "id": 47,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 54,
+                    "id": 48,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 55,
+                    "id": 49,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 56,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 57,
-                    "sequence": 5,
+                    "id": 50,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 58,
-                    "sequence": 6,
+                    "id": 51,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 59,
-                    "sequence": 7,
+                    "id": 52,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 60,
-                    "sequence": 8,
+                    "id": 53,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -3591,38 +3528,38 @@
             ],
             "points": [
                 {
-                    "id": 61,
+                    "id": 54,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 62,
+                    "id": 55,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 63,
+                    "id": 56,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 64,
+                    "id": 57,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -3870,39 +3807,21 @@
             ],
             "points": [
                 {
-                    "id": 65,
+                    "id": 58,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
-                    }
-                },
-                {
-                    "id": 66,
-                    "sequence": 2,
-                    "direction": 1,
-                    "dock": {
-                        "id": 22,
+                        "id": 20,
                         "name": "Марьино"
                     }
                 },
                 {
-                    "id": 67,
-                    "sequence": 3,
+                    "id": 59,
+                    "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 23,
+                        "id": 21,
                         "name": "Братеево"
-                    }
-                },
-                {
-                    "id": 68,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
                     }
                 }
             ],
@@ -4269,74 +4188,65 @@
             ],
             "points": [
                 {
-                    "id": 69,
+                    "id": 60,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 70,
+                    "id": 61,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 71,
+                    "id": 62,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 72,
+                    "id": 63,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 73,
+                    "id": 64,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 74,
+                    "id": 65,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 75,
+                    "id": 66,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 76,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -4716,74 +4626,65 @@
             ],
             "points": [
                 {
-                    "id": 77,
+                    "id": 67,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 78,
+                    "id": 68,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 79,
+                    "id": 69,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 80,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 81,
-                    "sequence": 5,
+                    "id": 70,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 82,
-                    "sequence": 6,
+                    "id": 71,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 83,
-                    "sequence": 7,
+                    "id": 72,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 84,
-                    "sequence": 8,
+                    "id": 73,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -5159,7 +5060,7 @@
             ],
             "points": [
                 {
-                    "id": 85,
+                    "id": 74,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -5168,62 +5069,53 @@
                     }
                 },
                 {
-                    "id": 86,
+                    "id": 75,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 87,
+                    "id": 76,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 88,
+                    "id": 77,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 89,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 90,
-                    "sequence": 6,
+                    "id": 78,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 91,
-                    "sequence": 7,
+                    "id": 79,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 92,
-                    "sequence": 8,
+                    "id": 80,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -5537,38 +5429,38 @@
             ],
             "points": [
                 {
-                    "id": 93,
+                    "id": 81,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 94,
+                    "id": 82,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 95,
+                    "id": 83,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 96,
+                    "id": 84,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -5841,38 +5733,38 @@
             ],
             "points": [
                 {
-                    "id": 97,
+                    "id": 85,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 98,
+                    "id": 86,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 99,
+                    "id": 87,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 100,
+                    "id": 88,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -6120,39 +6012,21 @@
             ],
             "points": [
                 {
-                    "id": 101,
+                    "id": 89,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
-                    }
-                },
-                {
-                    "id": 102,
-                    "sequence": 2,
-                    "direction": 1,
-                    "dock": {
-                        "id": 22,
+                        "id": 20,
                         "name": "Марьино"
                     }
                 },
                 {
-                    "id": 103,
-                    "sequence": 3,
+                    "id": 90,
+                    "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 23,
+                        "id": 21,
                         "name": "Братеево"
-                    }
-                },
-                {
-                    "id": 104,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
                     }
                 }
             ],
@@ -6249,38 +6123,38 @@
             ],
             "points": [
                 {
-                    "id": 105,
+                    "id": 91,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 106,
+                    "id": 92,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 25,
+                        "id": 23,
                         "name": "Серебряный Бор 3"
                     }
                 },
                 {
-                    "id": 107,
+                    "id": 93,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 108,
+                    "id": 94,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 }
@@ -6313,7 +6187,7 @@
             ],
             "points": [
                 {
-                    "id": 109,
+                    "id": 95,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -6322,25 +6196,25 @@
                     }
                 },
                 {
-                    "id": 110,
+                    "id": 96,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 111,
+                    "id": 97,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 112,
+                    "id": 98,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
@@ -6712,74 +6586,65 @@
             ],
             "points": [
                 {
-                    "id": 113,
+                    "id": 99,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 114,
+                    "id": 100,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 115,
+                    "id": 101,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 116,
+                    "id": 102,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 117,
+                    "id": 103,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 118,
+                    "id": 104,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 119,
+                    "id": 105,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 120,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -7159,74 +7024,65 @@
             ],
             "points": [
                 {
-                    "id": 121,
+                    "id": 106,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 122,
+                    "id": 107,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 123,
+                    "id": 108,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 124,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 125,
-                    "sequence": 5,
+                    "id": 109,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 126,
-                    "sequence": 6,
+                    "id": 110,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 127,
-                    "sequence": 7,
+                    "id": 111,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 128,
-                    "sequence": 8,
+                    "id": 112,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -7602,7 +7458,7 @@
             ],
             "points": [
                 {
-                    "id": 129,
+                    "id": 113,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -7611,62 +7467,53 @@
                     }
                 },
                 {
-                    "id": 130,
+                    "id": 114,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 131,
+                    "id": 115,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 132,
+                    "id": 116,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 133,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 134,
-                    "sequence": 6,
+                    "id": 117,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 135,
-                    "sequence": 7,
+                    "id": 118,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 136,
-                    "sequence": 8,
+                    "id": 119,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -7942,38 +7789,38 @@
             ],
             "points": [
                 {
-                    "id": 137,
+                    "id": 120,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 138,
+                    "id": 121,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 139,
+                    "id": 122,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 140,
+                    "id": 123,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -8221,39 +8068,21 @@
             ],
             "points": [
                 {
-                    "id": 141,
+                    "id": 124,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
-                    }
-                },
-                {
-                    "id": 142,
-                    "sequence": 2,
-                    "direction": 1,
-                    "dock": {
-                        "id": 22,
+                        "id": 20,
                         "name": "Марьино"
                     }
                 },
                 {
-                    "id": 143,
-                    "sequence": 3,
+                    "id": 125,
+                    "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 23,
+                        "id": 21,
                         "name": "Братеево"
-                    }
-                },
-                {
-                    "id": 144,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 4,
-                        "name": "Коломенское "
                     }
                 }
             ],
@@ -8620,74 +8449,65 @@
             ],
             "points": [
                 {
-                    "id": 145,
+                    "id": 126,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 146,
+                    "id": 127,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 147,
+                    "id": 128,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 148,
+                    "id": 129,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 149,
+                    "id": 130,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 150,
+                    "id": 131,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 151,
+                    "id": 132,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 152,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -9067,74 +8887,65 @@
             ],
             "points": [
                 {
-                    "id": 153,
+                    "id": 133,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 154,
+                    "id": 134,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 155,
+                    "id": 135,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 156,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 157,
-                    "sequence": 5,
+                    "id": 136,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 158,
-                    "sequence": 6,
+                    "id": 137,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 159,
-                    "sequence": 7,
+                    "id": 138,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 160,
-                    "sequence": 8,
+                    "id": 139,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -9502,74 +9313,65 @@
             ],
             "points": [
                 {
-                    "id": 161,
+                    "id": 140,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 162,
+                    "id": 141,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 163,
+                    "id": 142,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 164,
+                    "id": 143,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 165,
+                    "id": 144,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 166,
+                    "id": 145,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 167,
+                    "id": 146,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 168,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -9949,74 +9751,65 @@
             ],
             "points": [
                 {
-                    "id": 169,
+                    "id": 147,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 170,
+                    "id": 148,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 171,
+                    "id": 149,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 172,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 173,
-                    "sequence": 5,
+                    "id": 150,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 174,
-                    "sequence": 6,
+                    "id": 151,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 175,
-                    "sequence": 7,
+                    "id": 152,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 176,
-                    "sequence": 8,
+                    "id": 153,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -10327,38 +10120,38 @@
             ],
             "points": [
                 {
-                    "id": 177,
+                    "id": 154,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 178,
+                    "id": 155,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 179,
+                    "id": 156,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 180,
+                    "id": 157,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -10636,38 +10429,38 @@
             ],
             "points": [
                 {
-                    "id": 181,
+                    "id": 158,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 182,
+                    "id": 159,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 183,
+                    "id": 160,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 184,
+                    "id": 161,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -11047,74 +10840,65 @@
             ],
             "points": [
                 {
-                    "id": 185,
+                    "id": 162,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 186,
+                    "id": 163,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 187,
+                    "id": 164,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 188,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 189,
-                    "sequence": 5,
+                    "id": 165,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 190,
-                    "sequence": 6,
+                    "id": 166,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 191,
-                    "sequence": 7,
+                    "id": 167,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 192,
-                    "sequence": 8,
+                    "id": 168,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -11490,7 +11274,7 @@
             ],
             "points": [
                 {
-                    "id": 193,
+                    "id": 169,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -11499,62 +11283,53 @@
                     }
                 },
                 {
-                    "id": 194,
+                    "id": 170,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 195,
+                    "id": 171,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 196,
+                    "id": 172,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 197,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 198,
-                    "sequence": 6,
+                    "id": 173,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 199,
-                    "sequence": 7,
+                    "id": 174,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 200,
-                    "sequence": 8,
+                    "id": 175,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -11868,38 +11643,38 @@
             ],
             "points": [
                 {
-                    "id": 201,
+                    "id": 176,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 202,
+                    "id": 177,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 203,
+                    "id": 178,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 204,
+                    "id": 179,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -12177,38 +11952,38 @@
             ],
             "points": [
                 {
-                    "id": 205,
+                    "id": 180,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 206,
+                    "id": 181,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 207,
+                    "id": 182,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 208,
+                    "id": 183,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -12576,74 +12351,65 @@
             ],
             "points": [
                 {
-                    "id": 209,
+                    "id": 184,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 210,
+                    "id": 185,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 211,
+                    "id": 186,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 212,
+                    "id": 187,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 213,
+                    "id": 188,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 214,
+                    "id": 189,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 215,
+                    "id": 190,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 216,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -13023,74 +12789,65 @@
             ],
             "points": [
                 {
-                    "id": 217,
+                    "id": 191,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 218,
+                    "id": 192,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 219,
+                    "id": 193,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 220,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 221,
-                    "sequence": 5,
+                    "id": 194,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 222,
-                    "sequence": 6,
+                    "id": 195,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 223,
-                    "sequence": 7,
+                    "id": 196,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 224,
-                    "sequence": 8,
+                    "id": 197,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -13466,7 +13223,7 @@
             ],
             "points": [
                 {
-                    "id": 225,
+                    "id": 198,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -13475,62 +13232,53 @@
                     }
                 },
                 {
-                    "id": 226,
+                    "id": 199,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 227,
+                    "id": 200,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 228,
+                    "id": 201,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 229,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 230,
-                    "sequence": 6,
+                    "id": 202,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 231,
-                    "sequence": 7,
+                    "id": 203,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 232,
-                    "sequence": 8,
+                    "id": 204,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -13811,38 +13559,38 @@
             ],
             "points": [
                 {
-                    "id": 233,
+                    "id": 205,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 234,
+                    "id": 206,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 235,
+                    "id": 207,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 236,
+                    "id": 208,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -13940,38 +13688,38 @@
             ],
             "points": [
                 {
-                    "id": 237,
+                    "id": 209,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 238,
+                    "id": 210,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 25,
+                        "id": 23,
                         "name": "Серебряный Бор 3"
                     }
                 },
                 {
-                    "id": 239,
+                    "id": 211,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 240,
+                    "id": 212,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 }
@@ -14339,74 +14087,65 @@
             ],
             "points": [
                 {
-                    "id": 241,
+                    "id": 213,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 242,
+                    "id": 214,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 243,
+                    "id": 215,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 244,
+                    "id": 216,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 245,
+                    "id": 217,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 246,
+                    "id": 218,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 247,
+                    "id": 219,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 248,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -14786,74 +14525,65 @@
             ],
             "points": [
                 {
-                    "id": 249,
+                    "id": 220,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 250,
+                    "id": 221,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 251,
+                    "id": 222,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 252,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 253,
-                    "sequence": 5,
+                    "id": 223,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 254,
-                    "sequence": 6,
+                    "id": 224,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 255,
-                    "sequence": 7,
+                    "id": 225,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 256,
-                    "sequence": 8,
+                    "id": 226,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -15229,7 +14959,7 @@
             ],
             "points": [
                 {
-                    "id": 257,
+                    "id": 227,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -15238,62 +14968,53 @@
                     }
                 },
                 {
-                    "id": 258,
+                    "id": 228,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 259,
+                    "id": 229,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 260,
+                    "id": 230,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 261,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 262,
-                    "sequence": 6,
+                    "id": 231,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 263,
-                    "sequence": 7,
+                    "id": 232,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 264,
-                    "sequence": 8,
+                    "id": 233,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -15574,38 +15295,38 @@
             ],
             "points": [
                 {
-                    "id": 265,
+                    "id": 234,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 266,
+                    "id": 235,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 267,
+                    "id": 236,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 268,
+                    "id": 237,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -15973,74 +15694,65 @@
             ],
             "points": [
                 {
-                    "id": 269,
+                    "id": 238,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 270,
+                    "id": 239,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 271,
+                    "id": 240,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 272,
+                    "id": 241,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 273,
+                    "id": 242,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 274,
+                    "id": 243,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 275,
+                    "id": 244,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 276,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -16420,74 +16132,65 @@
             ],
             "points": [
                 {
-                    "id": 277,
+                    "id": 245,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 278,
+                    "id": 246,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 279,
+                    "id": 247,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 280,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 281,
-                    "sequence": 5,
+                    "id": 248,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 282,
-                    "sequence": 6,
+                    "id": 249,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 283,
-                    "sequence": 7,
+                    "id": 250,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 284,
-                    "sequence": 8,
+                    "id": 251,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -16863,7 +16566,7 @@
             ],
             "points": [
                 {
-                    "id": 285,
+                    "id": 252,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -16872,62 +16575,53 @@
                     }
                 },
                 {
-                    "id": 286,
+                    "id": 253,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 287,
+                    "id": 254,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 288,
+                    "id": 255,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 289,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 290,
-                    "sequence": 6,
+                    "id": 256,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 291,
-                    "sequence": 7,
+                    "id": 257,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 292,
-                    "sequence": 8,
+                    "id": 258,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -17241,38 +16935,38 @@
             ],
             "points": [
                 {
-                    "id": 293,
+                    "id": 259,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 294,
+                    "id": 260,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 295,
+                    "id": 261,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 296,
+                    "id": 262,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -17550,38 +17244,38 @@
             ],
             "points": [
                 {
-                    "id": 297,
+                    "id": 263,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 298,
+                    "id": 264,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 299,
+                    "id": 265,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 300,
+                    "id": 266,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -17949,74 +17643,65 @@
             ],
             "points": [
                 {
-                    "id": 301,
+                    "id": 267,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 302,
+                    "id": 268,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 303,
+                    "id": 269,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 304,
+                    "id": 270,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 305,
+                    "id": 271,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 306,
+                    "id": 272,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 307,
+                    "id": 273,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 308,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -18396,74 +18081,65 @@
             ],
             "points": [
                 {
-                    "id": 309,
+                    "id": 274,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 310,
+                    "id": 275,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 311,
+                    "id": 276,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 312,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 313,
-                    "sequence": 5,
+                    "id": 277,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 314,
-                    "sequence": 6,
+                    "id": 278,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 315,
-                    "sequence": 7,
+                    "id": 279,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 316,
-                    "sequence": 8,
+                    "id": 280,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -18839,7 +18515,7 @@
             ],
             "points": [
                 {
-                    "id": 317,
+                    "id": 281,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -18848,62 +18524,53 @@
                     }
                 },
                 {
-                    "id": 318,
+                    "id": 282,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 319,
+                    "id": 283,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 320,
+                    "id": 284,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 321,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 322,
-                    "sequence": 6,
+                    "id": 285,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 323,
-                    "sequence": 7,
+                    "id": 286,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 324,
-                    "sequence": 8,
+                    "id": 287,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -19217,38 +18884,38 @@
             ],
             "points": [
                 {
-                    "id": 325,
+                    "id": 288,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 326,
+                    "id": 289,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 327,
+                    "id": 290,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 328,
+                    "id": 291,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -19526,38 +19193,38 @@
             ],
             "points": [
                 {
-                    "id": 329,
+                    "id": 292,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 330,
+                    "id": 293,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 331,
+                    "id": 294,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 332,
+                    "id": 295,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -19655,38 +19322,38 @@
             ],
             "points": [
                 {
-                    "id": 333,
+                    "id": 296,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 334,
+                    "id": 297,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 25,
+                        "id": 23,
                         "name": "Серебряный Бор 3"
                     }
                 },
                 {
-                    "id": 335,
+                    "id": 298,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 336,
+                    "id": 299,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 }
@@ -20054,74 +19721,65 @@
             ],
             "points": [
                 {
-                    "id": 337,
+                    "id": 300,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 338,
+                    "id": 301,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 339,
+                    "id": 302,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 340,
+                    "id": 303,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 341,
+                    "id": 304,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 342,
+                    "id": 305,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 343,
+                    "id": 306,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 344,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -20501,74 +20159,65 @@
             ],
             "points": [
                 {
-                    "id": 345,
+                    "id": 307,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 346,
+                    "id": 308,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 347,
+                    "id": 309,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 348,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 349,
-                    "sequence": 5,
+                    "id": 310,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 350,
-                    "sequence": 6,
+                    "id": 311,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 351,
-                    "sequence": 7,
+                    "id": 312,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 352,
-                    "sequence": 8,
+                    "id": 313,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -20944,7 +20593,7 @@
             ],
             "points": [
                 {
-                    "id": 353,
+                    "id": 314,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -20953,62 +20602,53 @@
                     }
                 },
                 {
-                    "id": 354,
+                    "id": 315,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 355,
+                    "id": 316,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 356,
+                    "id": 317,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 357,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 358,
-                    "sequence": 6,
+                    "id": 318,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 359,
-                    "sequence": 7,
+                    "id": 319,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 360,
-                    "sequence": 8,
+                    "id": 320,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -21322,38 +20962,38 @@
             ],
             "points": [
                 {
-                    "id": 361,
+                    "id": 321,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 362,
+                    "id": 322,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 363,
+                    "id": 323,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 364,
+                    "id": 324,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -21631,38 +21271,38 @@
             ],
             "points": [
                 {
-                    "id": 365,
+                    "id": 325,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 366,
+                    "id": 326,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 367,
+                    "id": 327,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 368,
+                    "id": 328,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -22030,74 +21670,65 @@
             ],
             "points": [
                 {
-                    "id": 369,
+                    "id": 329,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 370,
+                    "id": 330,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 371,
+                    "id": 331,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 372,
+                    "id": 332,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 373,
+                    "id": 333,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 374,
+                    "id": 334,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 375,
+                    "id": 335,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 376,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -22477,74 +22108,65 @@
             ],
             "points": [
                 {
-                    "id": 377,
+                    "id": 336,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 378,
+                    "id": 337,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 379,
+                    "id": 338,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 380,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 381,
-                    "sequence": 5,
+                    "id": 339,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 382,
-                    "sequence": 6,
+                    "id": 340,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 383,
-                    "sequence": 7,
+                    "id": 341,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 384,
-                    "sequence": 8,
+                    "id": 342,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -22920,7 +22542,7 @@
             ],
             "points": [
                 {
-                    "id": 385,
+                    "id": 343,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -22929,62 +22551,53 @@
                     }
                 },
                 {
-                    "id": 386,
+                    "id": 344,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 387,
+                    "id": 345,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 388,
+                    "id": 346,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 389,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 390,
-                    "sequence": 6,
+                    "id": 347,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 391,
-                    "sequence": 7,
+                    "id": 348,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 392,
-                    "sequence": 8,
+                    "id": 349,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -23298,38 +22911,38 @@
             ],
             "points": [
                 {
-                    "id": 393,
+                    "id": 350,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 394,
+                    "id": 351,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 395,
+                    "id": 352,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 396,
+                    "id": 353,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -23607,38 +23220,38 @@
             ],
             "points": [
                 {
-                    "id": 397,
+                    "id": 354,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 398,
+                    "id": 355,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 399,
+                    "id": 356,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 400,
+                    "id": 357,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }
@@ -23736,38 +23349,38 @@
             ],
             "points": [
                 {
-                    "id": 401,
+                    "id": 358,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 },
                 {
-                    "id": 402,
+                    "id": 359,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 25,
+                        "id": 23,
                         "name": "Серебряный Бор 3"
                     }
                 },
                 {
-                    "id": 403,
+                    "id": 360,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 26,
+                        "id": 24,
                         "name": "Серебряный Бор 2"
                     }
                 },
                 {
-                    "id": 404,
+                    "id": 361,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 24,
+                        "id": 22,
                         "name": "Троице-Лыково"
                     }
                 }
@@ -24135,74 +23748,65 @@
             ],
             "points": [
                 {
-                    "id": 405,
+                    "id": 362,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 406,
+                    "id": 363,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 407,
+                    "id": 364,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 408,
+                    "id": 365,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 409,
+                    "id": 366,
                     "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 410,
+                    "id": 367,
                     "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 411,
+                    "id": 368,
                     "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 412,
-                    "sequence": 8,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 }
@@ -24582,74 +24186,65 @@
             ],
             "points": [
                 {
-                    "id": 413,
+                    "id": 369,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 414,
+                    "id": 370,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 415,
+                    "id": 371,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 416,
-                    "sequence": 4,
-                    "direction": 1,
-                    "dock": {
-                        "id": 11,
+                        "id": 10,
                         "name": "Киевский"
                     }
                 },
                 {
-                    "id": 417,
-                    "sequence": 5,
+                    "id": 372,
+                    "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 418,
-                    "sequence": 6,
+                    "id": 373,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 419,
-                    "sequence": 7,
+                    "id": 374,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 420,
-                    "sequence": 8,
+                    "id": 375,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 }
@@ -25025,7 +24620,7 @@
             ],
             "points": [
                 {
-                    "id": 421,
+                    "id": 376,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
@@ -25034,62 +24629,53 @@
                     }
                 },
                 {
-                    "id": 422,
+                    "id": 377,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 15,
+                        "id": 14,
                         "name": "Китай-Город"
                     }
                 },
                 {
-                    "id": 423,
+                    "id": 378,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 14,
+                        "id": 13,
                         "name": "Крымский мост"
                     }
                 },
                 {
-                    "id": 424,
+                    "id": 379,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 16,
-                        "name": "Лужники Центральный"
-                    }
-                },
-                {
-                    "id": 425,
-                    "sequence": 5,
-                    "direction": 1,
-                    "dock": {
-                        "id": 12,
+                        "id": 11,
                         "name": "Андреевский"
                     }
                 },
                 {
-                    "id": 426,
-                    "sequence": 6,
+                    "id": 380,
+                    "sequence": 5,
                     "direction": 1,
                     "dock": {
-                        "id": 13,
+                        "id": 12,
                         "name": "Нескучный сад"
                     }
                 },
                 {
-                    "id": 427,
-                    "sequence": 7,
+                    "id": 381,
+                    "sequence": 6,
                     "direction": 1,
                     "dock": {
-                        "id": 17,
+                        "id": 15,
                         "name": "Красный Октябрь"
                     }
                 },
                 {
-                    "id": 428,
-                    "sequence": 8,
+                    "id": 382,
+                    "sequence": 7,
                     "direction": 1,
                     "dock": {
                         "id": 6,
@@ -25403,38 +24989,38 @@
             ],
             "points": [
                 {
-                    "id": 429,
+                    "id": 383,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 },
                 {
-                    "id": 430,
+                    "id": 384,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 431,
+                    "id": 385,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 432,
+                    "id": 386,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 18,
+                        "id": 16,
                         "name": "Парк Горького"
                     }
                 }
@@ -25707,38 +25293,38 @@
             ],
             "points": [
                 {
-                    "id": 433,
+                    "id": 387,
                     "sequence": 1,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 },
                 {
-                    "id": 434,
+                    "id": 388,
                     "sequence": 2,
                     "direction": 1,
                     "dock": {
-                        "id": 19,
+                        "id": 17,
                         "name": "Зарядье"
                     }
                 },
                 {
-                    "id": 435,
+                    "id": 389,
                     "sequence": 3,
                     "direction": 1,
                     "dock": {
-                        "id": 20,
+                        "id": 18,
                         "name": "Патриарший"
                     }
                 },
                 {
-                    "id": 436,
+                    "id": 390,
                     "sequence": 4,
                     "direction": 1,
                     "dock": {
-                        "id": 21,
+                        "id": 19,
                         "name": "Третьяковский"
                     }
                 }

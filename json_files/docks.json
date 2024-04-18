@@ -96,18 +96,13 @@
         },
         {
             "id": 4,
-            "name": "Коломенское ",
-            "berth_cnt": 2,
+            "name": "Коломенское",
+            "berth_cnt": 1,
             "berth": [
                 {
                     "id": 6,
                     "number": 1,
                     "berth_letter": "А"
-                },
-                {
-                    "id": 7,
-                    "number": 1,
-                    "berth_letter": "В"
                 }
             ],
             "address": null,
@@ -133,17 +128,17 @@
             "berth_cnt": 3,
             "berth": [
                 {
-                    "id": 8,
+                    "id": 7,
                     "number": 1,
                     "berth_letter": "А"
                 },
                 {
-                    "id": 9,
+                    "id": 8,
                     "number": 1,
                     "berth_letter": "В"
                 },
                 {
-                    "id": 10,
+                    "id": 9,
                     "number": 1,
                     "berth_letter": "С"
                 }
@@ -171,12 +166,12 @@
             "berth_cnt": 2,
             "berth": [
                 {
-                    "id": 11,
+                    "id": 10,
                     "number": 1,
                     "berth_letter": "А"
                 },
                 {
-                    "id": 12,
+                    "id": 11,
                     "number": 1,
                     "berth_letter": "В"
                 }
@@ -200,7 +195,35 @@
         },
         {
             "id": 7,
-            "name": "Кленовый бульвар",
+            "name": "Лужники-Центральный",
+            "berth_cnt": 1,
+            "berth": [
+                {
+                    "id": 12,
+                    "number": 1,
+                    "berth_letter": "А"
+                }
+            ],
+            "address": null,
+            "type": "Причал",
+            "exploitation_type": {
+                "id": 1,
+                "name": "Пассажирские"
+            },
+            "department": null,
+            "timetable": {
+                "start": "00:00",
+                "end": "23:59"
+            },
+            "description": null,
+            "geopoint": {
+                "lon": null,
+                "lat": null
+            }
+        },
+        {
+            "id": 8,
+            "name": "Сетунь",
             "berth_cnt": 1,
             "berth": [
                 {
@@ -227,42 +250,19 @@
             }
         },
         {
-            "id": 8,
-            "name": "Лужники-Центральный",
-            "berth_cnt": 1,
+            "id": 9,
+            "name": "Лужники-Северный",
+            "berth_cnt": 2,
             "berth": [
                 {
                     "id": 14,
                     "number": 1,
                     "berth_letter": "А"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 9,
-            "name": "Сетунь",
-            "berth_cnt": 1,
-            "berth": [
+                },
                 {
                     "id": 15,
                     "number": 1,
-                    "berth_letter": "А"
+                    "berth_letter": "В"
                 }
             ],
             "address": null,
@@ -284,16 +284,11 @@
         },
         {
             "id": 10,
-            "name": "Лужники-Северный",
-            "berth_cnt": 2,
+            "name": "Киевский",
+            "berth_cnt": 1,
             "berth": [
                 {
                     "id": 16,
-                    "number": 1,
-                    "berth_letter": "А"
-                },
-                {
-                    "id": 17,
                     "number": 1,
                     "berth_letter": "В"
                 }
@@ -317,13 +312,13 @@
         },
         {
             "id": 11,
-            "name": "Киевский",
+            "name": "Андреевский",
             "berth_cnt": 1,
             "berth": [
                 {
-                    "id": 18,
+                    "id": 17,
                     "number": 1,
-                    "berth_letter": "В"
+                    "berth_letter": "А"
                 }
             ],
             "address": null,
@@ -345,13 +340,23 @@
         },
         {
             "id": 12,
-            "name": "Андреевский",
-            "berth_cnt": 1,
+            "name": "Нескучный сад",
+            "berth_cnt": 3,
             "berth": [
+                {
+                    "id": 18,
+                    "number": 1,
+                    "berth_letter": "А"
+                },
                 {
                     "id": 19,
                     "number": 1,
-                    "berth_letter": "А"
+                    "berth_letter": "В"
+                },
+                {
+                    "id": 20,
+                    "number": 1,
+                    "berth_letter": "С"
                 }
             ],
             "address": null,
@@ -373,23 +378,18 @@
         },
         {
             "id": 13,
-            "name": "Нескучный сад",
-            "berth_cnt": 3,
+            "name": "Крымский мост",
+            "berth_cnt": 2,
             "berth": [
                 {
-                    "id": 20,
+                    "id": 21,
                     "number": 1,
                     "berth_letter": "А"
                 },
                 {
-                    "id": 21,
-                    "number": 1,
-                    "berth_letter": "В"
-                },
-                {
                     "id": 22,
                     "number": 1,
-                    "berth_letter": "С"
+                    "berth_letter": "В"
                 }
             ],
             "address": null,
@@ -411,8 +411,8 @@
         },
         {
             "id": 14,
-            "name": "Крымский мост",
-            "berth_cnt": 2,
+            "name": "Китай-Город",
+            "berth_cnt": 3,
             "berth": [
                 {
                     "id": 23,
@@ -423,42 +423,9 @@
                     "id": 24,
                     "number": 1,
                     "berth_letter": "В"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 15,
-            "name": "Китай-Город",
-            "berth_cnt": 3,
-            "berth": [
+                },
                 {
                     "id": 25,
-                    "number": 1,
-                    "berth_letter": "А"
-                },
-                {
-                    "id": 26,
-                    "number": 1,
-                    "berth_letter": "В"
-                },
-                {
-                    "id": 27,
                     "number": 1,
                     "berth_letter": "С"
                 }
@@ -481,14 +448,47 @@
             }
         },
         {
+            "id": 15,
+            "name": "Красный Октябрь",
+            "berth_cnt": 2,
+            "berth": [
+                {
+                    "id": 26,
+                    "number": 1,
+                    "berth_letter": "А"
+                },
+                {
+                    "id": 27,
+                    "number": 1,
+                    "berth_letter": "В"
+                }
+            ],
+            "address": null,
+            "type": "Причал",
+            "exploitation_type": {
+                "id": 1,
+                "name": "Пассажирские"
+            },
+            "department": null,
+            "timetable": {
+                "start": "00:00",
+                "end": "23:59"
+            },
+            "description": null,
+            "geopoint": {
+                "lon": null,
+                "lat": null
+            }
+        },
+        {
             "id": 16,
-            "name": "Лужники Центральный",
+            "name": "Парк Горького",
             "berth_cnt": 1,
             "berth": [
                 {
                     "id": 28,
                     "number": 1,
-                    "berth_letter": "А"
+                    "berth_letter": "С"
                 }
             ],
             "address": null,
@@ -510,7 +510,7 @@
         },
         {
             "id": 17,
-            "name": "Красный Октябрь",
+            "name": "Зарядье",
             "berth_cnt": 2,
             "berth": [
                 {
@@ -543,13 +543,13 @@
         },
         {
             "id": 18,
-            "name": "Парк Горького",
+            "name": "Патриарший",
             "berth_cnt": 1,
             "berth": [
                 {
                     "id": 31,
                     "number": 1,
-                    "berth_letter": "С"
+                    "berth_letter": "А"
                 }
             ],
             "address": null,
@@ -571,7 +571,7 @@
         },
         {
             "id": 19,
-            "name": "Зарядье",
+            "name": "Третьяковский",
             "berth_cnt": 2,
             "berth": [
                 {
@@ -604,13 +604,13 @@
         },
         {
             "id": 20,
-            "name": "Патриарший",
+            "name": "Марьино",
             "berth_cnt": 1,
             "berth": [
                 {
                     "id": 34,
                     "number": 1,
-                    "berth_letter": "А"
+                    "berth_letter": "В"
                 }
             ],
             "address": null,
@@ -632,16 +632,11 @@
         },
         {
             "id": 21,
-            "name": "Третьяковский",
-            "berth_cnt": 2,
+            "name": "Братеево",
+            "berth_cnt": 1,
             "berth": [
                 {
                     "id": 35,
-                    "number": 1,
-                    "berth_letter": "А"
-                },
-                {
-                    "id": 36,
                     "number": 1,
                     "berth_letter": "В"
                 }
@@ -665,13 +660,13 @@
         },
         {
             "id": 22,
-            "name": "Марьино",
+            "name": "Троице-Лыково",
             "berth_cnt": 1,
             "berth": [
                 {
-                    "id": 37,
+                    "id": 36,
                     "number": 1,
-                    "berth_letter": "В"
+                    "berth_letter": "А"
                 }
             ],
             "address": null,
@@ -693,13 +688,13 @@
         },
         {
             "id": 23,
-            "name": "Братеево",
+            "name": "Серебряный Бор 3",
             "berth_cnt": 1,
             "berth": [
                 {
-                    "id": 38,
+                    "id": 37,
                     "number": 1,
-                    "berth_letter": "В"
+                    "berth_letter": "А"
                 }
             ],
             "address": null,
@@ -721,7 +716,35 @@
         },
         {
             "id": 24,
-            "name": "Троице-Лыково",
+            "name": "Серебряный Бор 2",
+            "berth_cnt": 1,
+            "berth": [
+                {
+                    "id": 38,
+                    "number": 1,
+                    "berth_letter": "А"
+                }
+            ],
+            "address": null,
+            "type": "Причал",
+            "exploitation_type": {
+                "id": 1,
+                "name": "Пассажирские"
+            },
+            "department": null,
+            "timetable": {
+                "start": "00:00",
+                "end": "23:59"
+            },
+            "description": null,
+            "geopoint": {
+                "lon": null,
+                "lat": null
+            }
+        },
+        {
+            "id": 25,
+            "name": "Нагатинский",
             "berth_cnt": 1,
             "berth": [
                 {
@@ -748,8 +771,8 @@
             }
         },
         {
-            "id": 25,
-            "name": "Серебряный Бор 3",
+            "id": 26,
+            "name": "Карамышевский",
             "berth_cnt": 1,
             "berth": [
                 {
@@ -776,42 +799,14 @@
             }
         },
         {
-            "id": 26,
-            "name": "Серебряный Бор 2",
+            "id": 27,
+            "name": "Захарково",
             "berth_cnt": 1,
             "berth": [
                 {
                     "id": 41,
                     "number": 1,
-                    "berth_letter": "А"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 27,
-            "name": "Нагатинский",
-            "berth_cnt": 1,
-            "berth": [
-                {
-                    "id": 42,
-                    "number": 1,
-                    "berth_letter": "А"
+                    "berth_letter": "В"
                 }
             ],
             "address": null,
@@ -833,158 +828,18 @@
         },
         {
             "id": 28,
-            "name": "Китай-город",
-            "berth_cnt": 1,
-            "berth": [
-                {
-                    "id": 43,
-                    "number": 1,
-                    "berth_letter": "В"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 29,
-            "name": "Карамышевский",
-            "berth_cnt": 1,
-            "berth": [
-                {
-                    "id": 44,
-                    "number": 1,
-                    "berth_letter": "А"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 30,
-            "name": "Красный октябрь",
-            "berth_cnt": 1,
-            "berth": [
-                {
-                    "id": 45,
-                    "number": 1,
-                    "berth_letter": "В"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 31,
-            "name": "Захарково",
-            "berth_cnt": 1,
-            "berth": [
-                {
-                    "id": 46,
-                    "number": 1,
-                    "berth_letter": "В"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 32,
             "name": "Воробьевы горы",
             "berth_cnt": 2,
             "berth": [
                 {
-                    "id": 47,
+                    "id": 42,
                     "number": 1,
                     "berth_letter": "А"
                 },
                 {
-                    "id": 48,
+                    "id": 43,
                     "number": 1,
                     "berth_letter": "В"
-                }
-            ],
-            "address": null,
-            "type": "Причал",
-            "exploitation_type": {
-                "id": 1,
-                "name": "Пассажирские"
-            },
-            "department": null,
-            "timetable": {
-                "start": "00:00",
-                "end": "23:59"
-            },
-            "description": null,
-            "geopoint": {
-                "lon": null,
-                "lat": null
-            }
-        },
-        {
-            "id": 33,
-            "name": "Коломенское",
-            "berth_cnt": 1,
-            "berth": [
-                {
-                    "id": 49,
-                    "number": 1,
-                    "berth_letter": "А"
                 }
             ],
             "address": null,

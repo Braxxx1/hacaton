@@ -92,9 +92,9 @@ def get_points(points, docs, sequense, direction):
         if len(get_id) != 0:
             new_dict = {"id": points_id, "sequence":sequense, "direction": direction,
                     "dock":{"id": get_id[0][0], "name":get_id[0][1]}}
-        points_dict.append(new_dict)
-        sequense += 1
-        points_id += 1
+            points_dict.append(new_dict)
+            sequense += 1
+            points_id += 1
     return points_dict
 
 

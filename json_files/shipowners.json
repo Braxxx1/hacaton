@@ -170,14 +170,6 @@
         },
         {
             "id": 22,
-            "name": "ООО \"Все Теплоходы\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 23,
             "name": "ООО \"Мосфлот\"",
             "inn": null,
             "ogrn": null,
@@ -185,7 +177,7 @@
             "url": null
         },
         {
-            "id": 24,
+            "id": 23,
             "name": "ООО \"УК ФЛОТСЕРВИС\"",
             "inn": null,
             "ogrn": null,
@@ -193,7 +185,7 @@
             "url": null
         },
         {
-            "id": 25,
+            "id": 24,
             "name": "ИП Храмцова Наталья Юрьевна",
             "inn": null,
             "ogrn": null,
@@ -201,23 +193,7 @@
             "url": null
         },
         {
-            "id": 26,
-            "name": "ООО \"Адмиралъ\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 27,
-            "name": "ООО \"СК Августина\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 28,
+            "id": 25,
             "name": "ООО УК Речные Линии",
             "inn": null,
             "ogrn": null,
@@ -225,39 +201,7 @@
             "url": null
         },
         {
-            "id": 29,
-            "name": "ООО \"УК Речные Линии\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 30,
-            "name": "ООО \"Речфлот\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 31,
-            "name": "ООО \"Колхида\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 32,
-            "name": "ООО \"Центр Паломничества\"",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 33,
+            "id": 26,
             "name": "ООО \"Водное такси\"",
             "inn": null,
             "ogrn": null,
@@ -265,7 +209,7 @@
             "url": null
         },
         {
-            "id": 34,
+            "id": 27,
             "name": "ИП Зыбин Сергей Александрович",
             "inn": null,
             "ogrn": null,
@@ -273,7 +217,7 @@
             "url": null
         },
         {
-            "id": 35,
+            "id": 28,
             "name": "ООО Конкорд М",
             "inn": null,
             "ogrn": null,
@@ -281,15 +225,7 @@
             "url": null
         },
         {
-            "id": 36,
-            "name": "ООО Мосфлот",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 37,
+            "id": 29,
             "name": "ООО УК Золотой остров",
             "inn": null,
             "ogrn": null,
@@ -297,7 +233,7 @@
             "url": null
         },
         {
-            "id": 38,
+            "id": 30,
             "name": "АО Крокус Интернэшнл",
             "inn": null,
             "ogrn": null,
@@ -305,7 +241,7 @@
             "url": null
         },
         {
-            "id": 39,
+            "id": 31,
             "name": "ООО Яр-яхтинг",
             "inn": null,
             "ogrn": null,
@@ -313,23 +249,7 @@
             "url": null
         },
         {
-            "id": 40,
-            "name": "ИП Зыбин Сергей Александрович ",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 41,
-            "name": "ООО Водное такси",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 42,
+            "id": 32,
             "name": "ООО Флотилия",
             "inn": null,
             "ogrn": null,
@@ -337,23 +257,7 @@
             "url": null
         },
         {
-            "id": 43,
-            "name": "ООО ТА Мегафлот",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 44,
-            "name": "ИП Храмцова Наталья Юрьевна ",
-            "inn": null,
-            "ogrn": null,
-            "contacts": null,
-            "url": null
-        },
-        {
-            "id": 45,
+            "id": 33,
             "name": "ООО Два капитана-тур",
             "inn": null,
             "ogrn": null,
@@ -361,7 +265,7 @@
             "url": null
         },
         {
-            "id": 46,
+            "id": 34,
             "name": "Чижик Александр Сергеевич",
             "inn": null,
             "ogrn": null,
@@ -369,7 +273,7 @@
             "url": null
         },
         {
-            "id": 47,
+            "id": 35,
             "name": "ИП Беляк Александр Вадимович",
             "inn": null,
             "ogrn": null,
@@ -377,7 +281,7 @@
             "url": null
         },
         {
-            "id": 48,
+            "id": 36,
             "name": "ГПБУ Государственный природоохранный центр",
             "inn": null,
             "ogrn": null,
@@ -385,7 +289,7 @@
             "url": null
         },
         {
-            "id": 49,
+            "id": 37,
             "name": "Малофеев Константин Валерьевич",
             "inn": null,
             "ogrn": null,
@@ -393,7 +297,7 @@
             "url": null
         },
         {
-            "id": 50,
+            "id": 38,
             "name": "ООО Палитра",
             "inn": null,
             "ogrn": null,
@@ -401,7 +305,7 @@
             "url": null
         },
         {
-            "id": 51,
+            "id": 39,
             "name": "Земляков Денис Евгеньевич",
             "inn": null,
             "ogrn": null,
@@ -409,7 +313,7 @@
             "url": null
         },
         {
-            "id": 52,
+            "id": 40,
             "name": "ООО ГАМА",
             "inn": null,
             "ogrn": null,
@@ -417,7 +321,7 @@
             "url": null
         },
         {
-            "id": 53,
+            "id": 41,
             "name": "ИП Молева Марина Сергеевна",
             "inn": null,
             "ogrn": null,

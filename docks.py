@@ -11,8 +11,8 @@ def get_ower(df):
         temp_set = berth.get(select, set())
         unique_values = set(filter(lambda x: isinstance(x, str), selected_columns.iloc[2:,j_columns-1].unique()))
         berth[select] = temp_set | unique_values
-        if select.strip().lower() not in docks_set:
-            docks_set.add(select.strip().lower())
+        if ' '.join(select.strip().lower().split("-")) not in docks_set:
+            docks_set.add(' '.join(select.strip().lower().split("-")))
             temp_dict = {
                     "id": id_dock,
                     "name": select.strip(),
@@ -50,8 +50,8 @@ def get_ones(df_temp):
             temp_set = berth.get(name_dock, set())
             unique_values = set(name_sh)
             berth[name_dock] = temp_set | unique_values
-            if name_dock.strip().lower() not in docks_set:
-                docks_set.add(name_dock.strip().lower())
+            if ' '.join(name_dock.strip().lower().split("-")) not in docks_set:
+                docks_set.add(' '.join(name_dock.strip().lower().split("-")))
                 temp_dict = {
                         "id": id_dock,
                         "name": name_dock.strip(),

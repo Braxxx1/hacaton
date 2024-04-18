@@ -1,6 +1,6 @@
 [
     {
-        "id": 1373,
+        "id": 1283,
         "status": false,
         "dock_id": 5,
         "ship_id": 7,
@@ -24,7 +24,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1374,
+        "id": 1284,
         "status": false,
         "dock_id": 5,
         "ship_id": 21,
@@ -48,7 +48,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1375,
+        "id": 1285,
         "status": false,
         "dock_id": 1,
         "ship_id": 10,
@@ -72,10 +72,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1376,
+        "id": 1286,
         "status": false,
         "dock_id": 1,
-        "ship_id": 39,
+        "ship_id": 82,
         "route_id": null,
         "lot_id": null,
         "trip_id": null,
@@ -84,7 +84,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -96,7 +96,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1377,
+        "id": 1287,
         "status": false,
         "dock_id": 1,
         "ship_id": 11,
@@ -120,10 +120,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1378,
+        "id": 1288,
         "status": false,
         "dock_id": 1,
-        "ship_id": 43,
+        "ship_id": 83,
         "route_id": null,
         "lot_id": null,
         "trip_id": null,
@@ -132,7 +132,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -144,7 +144,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1379,
+        "id": 1289,
         "status": false,
         "dock_id": 1,
         "ship_id": 2,
@@ -168,7 +168,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1380,
+        "id": 1290,
         "status": false,
         "dock_id": 1,
         "ship_id": 13,
@@ -192,9 +192,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1381,
+        "id": 1291,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -216,7 +216,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1382,
+        "id": 1292,
         "status": false,
         "dock_id": 1,
         "ship_id": 13,
@@ -240,7 +240,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1383,
+        "id": 1293,
         "status": false,
         "dock_id": 1,
         "ship_id": 52,
@@ -264,7 +264,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1384,
+        "id": 1294,
         "status": false,
         "dock_id": 1,
         "ship_id": 52,
@@ -288,7 +288,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1385,
+        "id": 1295,
         "status": false,
         "dock_id": 5,
         "ship_id": 7,
@@ -312,7 +312,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1386,
+        "id": 1296,
         "status": false,
         "dock_id": 5,
         "ship_id": 23,
@@ -336,7 +336,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1387,
+        "id": 1297,
         "status": false,
         "dock_id": 5,
         "ship_id": 21,
@@ -360,7 +360,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1388,
+        "id": 1298,
         "status": false,
         "dock_id": 5,
         "ship_id": 7,
@@ -384,7 +384,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1389,
+        "id": 1299,
         "status": false,
         "dock_id": 5,
         "ship_id": 18,
@@ -408,7 +408,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1390,
+        "id": 1300,
         "status": false,
         "dock_id": 5,
         "ship_id": 80,
@@ -420,7 +420,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 35,
+        "shipowner_id": 28,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -432,7 +432,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1391,
+        "id": 1301,
         "status": false,
         "dock_id": 5,
         "ship_id": 23,
@@ -456,7 +456,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1392,
+        "id": 1302,
         "status": false,
         "dock_id": 5,
         "ship_id": 18,
@@ -480,9 +480,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1393,
+        "id": 1303,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -504,9 +504,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1394,
+        "id": 1304,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -528,7 +528,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1395,
+        "id": 1305,
         "status": false,
         "dock_id": 5,
         "ship_id": 21,
@@ -552,7 +552,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1396,
+        "id": 1306,
         "status": false,
         "dock_id": 5,
         "ship_id": 80,
@@ -564,7 +564,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 35,
+        "shipowner_id": 28,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -576,9 +576,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1397,
+        "id": 1307,
         "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 86,
         "route_id": null,
         "lot_id": null,
@@ -588,7 +588,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 37,
+        "shipowner_id": 29,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -600,9 +600,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1398,
+        "id": 1308,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -624,9 +624,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1399,
+        "id": 1309,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -648,7 +648,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1400,
+        "id": 1310,
         "status": false,
         "dock_id": 5,
         "ship_id": 80,
@@ -660,7 +660,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 35,
+        "shipowner_id": 28,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -672,7 +672,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1401,
+        "id": 1311,
         "status": false,
         "dock_id": 5,
         "ship_id": 23,
@@ -696,9 +696,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1402,
+        "id": 1312,
         "status": false,
-        "dock_id": 9,
+        "dock_id": 8,
         "ship_id": 28,
         "route_id": null,
         "lot_id": null,
@@ -720,9 +720,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1403,
+        "id": 1313,
         "status": false,
-        "dock_id": 9,
+        "dock_id": 8,
         "ship_id": 27,
         "route_id": null,
         "lot_id": null,
@@ -744,9 +744,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1404,
+        "id": 1314,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -768,7 +768,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1405,
+        "id": 1315,
         "status": false,
         "dock_id": 5,
         "ship_id": 7,
@@ -792,58 +792,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1406,
+        "id": 1316,
         "status": false,
         "dock_id": 5,
         "ship_id": 87,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 38,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1407,
-        "status": false,
-        "dock_id": 5,
-        "ship_id": 80,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "С"
-        },
-        "shipowner_id": 35,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1408,
-        "status": false,
-        "dock_id": 29,
-        "ship_id": 64,
         "route_id": null,
         "lot_id": null,
         "trip_id": null,
@@ -864,7 +816,55 @@
         "winner_ship_id": null
     },
     {
-        "id": 1409,
+        "id": 1317,
+        "status": false,
+        "dock_id": 5,
+        "ship_id": 80,
+        "route_id": null,
+        "lot_id": null,
+        "trip_id": null,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "С"
+        },
+        "shipowner_id": 28,
+        "timetable": {
+            "start_date": "2023-07-11",
+            "end_date": "2023-07-11",
+            "start_time": 82800,
+            "end_time": 83400,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1318,
+        "status": false,
+        "dock_id": 26,
+        "ship_id": 91,
+        "route_id": null,
+        "lot_id": null,
+        "trip_id": null,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "А"
+        },
+        "shipowner_id": 18,
+        "timetable": {
+            "start_date": "2023-07-11",
+            "end_date": "2023-07-11",
+            "start_time": 82800,
+            "end_time": 83400,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1319,
         "status": false,
         "dock_id": 5,
         "ship_id": 81,
@@ -888,9 +888,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1410,
+        "id": 1320,
         "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -912,7 +912,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1411,
+        "id": 1321,
         "status": false,
         "dock_id": 1,
         "ship_id": 9,
@@ -936,7 +936,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1412,
+        "id": 1322,
         "status": false,
         "dock_id": 1,
         "ship_id": 9,
@@ -960,57 +960,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1413,
+        "id": 1323,
         "status": false,
-        "dock_id": 14,
-        "ship_id": 85,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 36,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1414,
-        "status": false,
-        "dock_id": 14,
-        "ship_id": 85,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 36,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1415,
-        "status": false,
-        "dock_id": 8,
+        "dock_id": 7,
         "ship_id": 15,
         "route_id": null,
         "lot_id": null,
@@ -1032,7 +984,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1416,
+        "id": 1324,
         "status": false,
         "dock_id": 5,
         "ship_id": 21,
@@ -1056,7 +1008,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1417,
+        "id": 1325,
         "status": false,
         "dock_id": 1,
         "ship_id": 9,
@@ -1080,34 +1032,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1418,
-        "status": false,
-        "dock_id": 10,
-        "ship_id": 85,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 36,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1419,
+        "id": 1326,
         "status": false,
         "dock_id": 1,
-        "ship_id": 41,
+        "ship_id": 89,
         "route_id": null,
         "lot_id": null,
         "trip_id": null,
@@ -1116,7 +1044,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -1128,7 +1056,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1420,
+        "id": 1327,
         "status": false,
         "dock_id": 5,
         "ship_id": 7,
@@ -1152,7 +1080,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1421,
+        "id": 1328,
         "status": false,
         "dock_id": 5,
         "ship_id": 81,
@@ -1176,9 +1104,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1422,
+        "id": 1329,
         "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 1,
         "route_id": null,
         "lot_id": null,
@@ -1200,7 +1128,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1423,
+        "id": 1330,
         "status": false,
         "dock_id": 5,
         "ship_id": 81,
@@ -1224,7 +1152,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1424,
+        "id": 1331,
         "status": false,
         "dock_id": 1,
         "ship_id": 30,
@@ -1248,9 +1176,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1425,
+        "id": 1332,
         "status": false,
-        "dock_id": 10,
+        "dock_id": 9,
         "ship_id": 18,
         "route_id": null,
         "lot_id": null,
@@ -1272,9 +1200,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1426,
+        "id": 1333,
         "status": false,
-        "dock_id": 10,
+        "dock_id": 9,
         "ship_id": 23,
         "route_id": null,
         "lot_id": null,
@@ -1296,7 +1224,31 @@
         "winner_ship_id": null
     },
     {
-        "id": 1427,
+        "id": 1334,
+        "status": false,
+        "dock_id": 7,
+        "ship_id": 121,
+        "route_id": null,
+        "lot_id": null,
+        "trip_id": null,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "А"
+        },
+        "shipowner_id": 17,
+        "timetable": {
+            "start_date": "2023-07-11",
+            "end_date": "2023-07-11",
+            "start_time": 82800,
+            "end_time": 83400,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1335,
         "status": false,
         "dock_id": 8,
         "ship_id": 121,
@@ -1320,33 +1272,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1428,
+        "id": 1336,
         "status": false,
-        "dock_id": 9,
-        "ship_id": 121,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 17,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1429,
-        "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 19,
         "route_id": null,
         "lot_id": null,
@@ -1368,7 +1296,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1430,
+        "id": 1337,
         "status": false,
         "dock_id": 2,
         "ship_id": 2,
@@ -1392,7 +1320,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1431,
+        "id": 1338,
         "status": false,
         "dock_id": 2,
         "ship_id": 3,
@@ -1416,33 +1344,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1432,
+        "id": 1339,
         "status": false,
-        "dock_id": 32,
-        "ship_id": 106,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 43,
-        "timetable": {
-            "start_date": "2023-07-11",
-            "end_date": "2023-07-11",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1433,
-        "status": false,
-        "dock_id": 32,
+        "dock_id": 28,
         "ship_id": 38,
         "route_id": null,
         "lot_id": null,
@@ -1464,9 +1368,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1434,
+        "id": 1340,
         "status": false,
-        "dock_id": 12,
+        "dock_id": 11,
         "ship_id": 76,
         "route_id": null,
         "lot_id": null,
@@ -1488,9 +1392,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1435,
+        "id": 1341,
         "status": false,
-        "dock_id": 12,
+        "dock_id": 11,
         "ship_id": 42,
         "route_id": null,
         "lot_id": null,
@@ -1512,7 +1416,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1436,
+        "id": 1342,
         "status": false,
         "dock_id": 1,
         "ship_id": 14,
@@ -1536,7 +1440,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1437,
+        "id": 1343,
         "status": false,
         "dock_id": 1,
         "ship_id": 17,
@@ -1560,9 +1464,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1438,
+        "id": 1344,
         "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 1,
         "route_id": null,
         "lot_id": null,
@@ -1584,9 +1488,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1439,
+        "id": 1345,
         "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 6,
         "route_id": null,
         "lot_id": null,
@@ -1608,7 +1512,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1440,
+        "id": 1346,
         "status": false,
         "dock_id": 5,
         "ship_id": 23,
@@ -1632,9 +1536,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1441,
+        "id": 1347,
         "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 19,
         "route_id": null,
         "lot_id": null,
@@ -1656,9 +1560,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1442,
+        "id": 1348,
         "status": false,
-        "dock_id": 17,
+        "dock_id": 15,
         "ship_id": 1,
         "route_id": null,
         "lot_id": null,
@@ -1680,7 +1584,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1443,
+        "id": 1349,
         "status": false,
         "dock_id": 5,
         "ship_id": 18,
@@ -1704,7 +1608,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1444,
+        "id": 1350,
         "status": false,
         "dock_id": 1,
         "ship_id": 10,
@@ -1728,7 +1632,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1445,
+        "id": 1351,
         "status": false,
         "dock_id": 5,
         "ship_id": 81,
@@ -1752,10 +1656,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1446,
+        "id": 1352,
         "status": false,
         "dock_id": 1,
-        "ship_id": 39,
+        "ship_id": 82,
         "route_id": null,
         "lot_id": null,
         "trip_id": null,
@@ -1764,7 +1668,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": "2023-07-11",
             "end_date": "2023-07-11",
@@ -1776,7 +1680,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1447,
+        "id": 1353,
         "status": false,
         "dock_id": 2,
         "ship_id": 36,
@@ -1800,33 +1704,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1448,
+        "id": 1354,
         "status": false,
-        "dock_id": 21,
-        "ship_id": 94,
-        "route_id": null,
-        "lot_id": null,
-        "trip_id": null,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 41,
-        "timetable": {
-            "start_date": "2023-07-12",
-            "end_date": "2023-07-12",
-            "start_time": 82800,
-            "end_time": 83400,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1449,
-        "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 36,
         "route_id": 50,
         "lot_id": null,
@@ -1848,9 +1728,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1449,
+        "id": 1354,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 36,
         "route_id": 50,
         "lot_id": null,
@@ -1872,9 +1752,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1449,
+        "id": 1354,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 36,
         "route_id": 50,
         "lot_id": null,
@@ -1896,9 +1776,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1449,
+        "id": 1354,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 36,
         "route_id": 50,
         "lot_id": null,
@@ -1920,10 +1800,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1450,
+        "id": 1355,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 41,
+        "dock_id": 10,
+        "ship_id": 89,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 1,
@@ -1932,7 +1812,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -1944,10 +1824,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1450,
+        "id": 1355,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 41,
+        "dock_id": 10,
+        "ship_id": 89,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 2,
@@ -1956,7 +1836,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -1968,10 +1848,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1450,
+        "id": 1355,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 41,
+        "dock_id": 10,
+        "ship_id": 89,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 3,
@@ -1980,7 +1860,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -1992,10 +1872,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1450,
+        "id": 1355,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 41,
+        "dock_id": 10,
+        "ship_id": 89,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 4,
@@ -2004,7 +1884,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2016,10 +1896,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1450,
+        "id": 1355,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 41,
+        "dock_id": 10,
+        "ship_id": 89,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 5,
@@ -2028,7 +1908,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2040,9 +1920,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1451,
+        "id": 1356,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 38,
         "route_id": 50,
         "lot_id": null,
@@ -2064,9 +1944,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1451,
+        "id": 1356,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 38,
         "route_id": 50,
         "lot_id": null,
@@ -2088,9 +1968,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1451,
+        "id": 1356,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 38,
         "route_id": 50,
         "lot_id": null,
@@ -2112,9 +1992,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1451,
+        "id": 1356,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 38,
         "route_id": 50,
         "lot_id": null,
@@ -2136,9 +2016,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1451,
+        "id": 1356,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 38,
         "route_id": 50,
         "lot_id": null,
@@ -2160,10 +2040,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1452,
+        "id": 1357,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 39,
+        "dock_id": 10,
+        "ship_id": 82,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 1,
@@ -2172,7 +2052,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2184,10 +2064,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1452,
+        "id": 1357,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 39,
+        "dock_id": 10,
+        "ship_id": 82,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 2,
@@ -2196,7 +2076,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2208,10 +2088,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1452,
+        "id": 1357,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 39,
+        "dock_id": 10,
+        "ship_id": 82,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 3,
@@ -2220,7 +2100,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2232,10 +2112,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1452,
+        "id": 1357,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 39,
+        "dock_id": 10,
+        "ship_id": 82,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 4,
@@ -2244,7 +2124,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2256,10 +2136,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1452,
+        "id": 1357,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 39,
+        "dock_id": 10,
+        "ship_id": 82,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 5,
@@ -2268,7 +2148,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2280,9 +2160,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1453,
+        "id": 1358,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 40,
         "route_id": 50,
         "lot_id": null,
@@ -2304,9 +2184,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1453,
+        "id": 1358,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 40,
         "route_id": 50,
         "lot_id": null,
@@ -2328,9 +2208,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1453,
+        "id": 1358,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 40,
         "route_id": 50,
         "lot_id": null,
@@ -2352,9 +2232,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1453,
+        "id": 1358,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 40,
         "route_id": 50,
         "lot_id": null,
@@ -2376,9 +2256,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1453,
+        "id": 1358,
         "status": true,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 40,
         "route_id": 50,
         "lot_id": null,
@@ -2400,10 +2280,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1359,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 83,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 1,
@@ -2412,7 +2292,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2424,10 +2304,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1359,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 83,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 2,
@@ -2436,7 +2316,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2448,10 +2328,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1359,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 83,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 3,
@@ -2460,7 +2340,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2472,10 +2352,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1359,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 83,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 4,
@@ -2484,7 +2364,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2496,10 +2376,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1359,
         "status": true,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 83,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 5,
@@ -2508,7 +2388,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 22,
+        "shipowner_id": 1,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -2520,9 +2400,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1455,
+        "id": 1360,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 42,
         "route_id": 50,
         "lot_id": null,
@@ -2544,9 +2424,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1455,
+        "id": 1360,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 42,
         "route_id": 50,
         "lot_id": null,
@@ -2568,9 +2448,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1455,
+        "id": 1360,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 42,
         "route_id": 50,
         "lot_id": null,
@@ -2592,9 +2472,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1455,
+        "id": 1360,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 42,
         "route_id": 50,
         "lot_id": null,
@@ -2616,9 +2496,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1455,
+        "id": 1360,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 42,
         "route_id": 50,
         "lot_id": null,
@@ -2640,10 +2520,130 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1359,
         "status": false,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 83,
+        "route_id": 50,
+        "lot_id": null,
+        "trip_id": 1,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "В"
+        },
+        "shipowner_id": 1,
+        "timetable": {
+            "start_date": null,
+            "end_date": null,
+            "start_time": null,
+            "end_time": null,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1359,
+        "status": false,
+        "dock_id": 10,
+        "ship_id": 83,
+        "route_id": 50,
+        "lot_id": null,
+        "trip_id": 2,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "В"
+        },
+        "shipowner_id": 1,
+        "timetable": {
+            "start_date": null,
+            "end_date": null,
+            "start_time": null,
+            "end_time": null,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1359,
+        "status": false,
+        "dock_id": 10,
+        "ship_id": 83,
+        "route_id": 50,
+        "lot_id": null,
+        "trip_id": 3,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "В"
+        },
+        "shipowner_id": 1,
+        "timetable": {
+            "start_date": null,
+            "end_date": null,
+            "start_time": null,
+            "end_time": null,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1359,
+        "status": false,
+        "dock_id": 10,
+        "ship_id": 83,
+        "route_id": 50,
+        "lot_id": null,
+        "trip_id": 4,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "В"
+        },
+        "shipowner_id": 1,
+        "timetable": {
+            "start_date": null,
+            "end_date": null,
+            "start_time": null,
+            "end_time": null,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1359,
+        "status": false,
+        "dock_id": 10,
+        "ship_id": 83,
+        "route_id": 50,
+        "lot_id": null,
+        "trip_id": 5,
+        "position": {
+            "board": 1,
+            "number": 1,
+            "berth_letter": "В"
+        },
+        "shipowner_id": 1,
+        "timetable": {
+            "start_date": null,
+            "end_date": null,
+            "start_time": null,
+            "end_time": null,
+            "duration": null
+        },
+        "cancel_schedule_id": null,
+        "winner_ship_id": null
+    },
+    {
+        "id": 1361,
+        "status": false,
+        "dock_id": 10,
+        "ship_id": 44,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 1,
@@ -2664,10 +2664,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1361,
         "status": false,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 44,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 2,
@@ -2688,10 +2688,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1361,
         "status": false,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 44,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 3,
@@ -2712,10 +2712,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1361,
         "status": false,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 44,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 4,
@@ -2736,10 +2736,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1454,
+        "id": 1361,
         "status": false,
-        "dock_id": 11,
-        "ship_id": 43,
+        "dock_id": 10,
+        "ship_id": 44,
         "route_id": 50,
         "lot_id": null,
         "trip_id": 5,
@@ -2760,129 +2760,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1456,
+        "id": 1362,
         "status": false,
-        "dock_id": 11,
-        "ship_id": 44,
-        "route_id": 50,
-        "lot_id": null,
-        "trip_id": 1,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 23,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1456,
-        "status": false,
-        "dock_id": 11,
-        "ship_id": 44,
-        "route_id": 50,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 23,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1456,
-        "status": false,
-        "dock_id": 11,
-        "ship_id": 44,
-        "route_id": 50,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 23,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1456,
-        "status": false,
-        "dock_id": 11,
-        "ship_id": 44,
-        "route_id": 50,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 23,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1456,
-        "status": false,
-        "dock_id": 11,
-        "ship_id": 44,
-        "route_id": 50,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 23,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1457,
-        "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 30,
         "route_id": 50,
         "lot_id": null,
@@ -2904,9 +2784,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1457,
+        "id": 1362,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 30,
         "route_id": 50,
         "lot_id": null,
@@ -2928,9 +2808,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1457,
+        "id": 1362,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 30,
         "route_id": 50,
         "lot_id": null,
@@ -2952,9 +2832,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1457,
+        "id": 1362,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 30,
         "route_id": 50,
         "lot_id": null,
@@ -2976,9 +2856,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1457,
+        "id": 1362,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 30,
         "route_id": 50,
         "lot_id": null,
@@ -3000,9 +2880,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1458,
+        "id": 1363,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 76,
         "route_id": 50,
         "lot_id": null,
@@ -3024,9 +2904,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1458,
+        "id": 1363,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 76,
         "route_id": 50,
         "lot_id": null,
@@ -3048,9 +2928,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1458,
+        "id": 1363,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 76,
         "route_id": 50,
         "lot_id": null,
@@ -3072,9 +2952,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1458,
+        "id": 1363,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 76,
         "route_id": 50,
         "lot_id": null,
@@ -3096,9 +2976,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1458,
+        "id": 1363,
         "status": false,
-        "dock_id": 11,
+        "dock_id": 10,
         "ship_id": 76,
         "route_id": 50,
         "lot_id": null,
@@ -3120,9 +3000,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1459,
+        "id": 1364,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 47,
         "route_id": 51,
         "lot_id": null,
@@ -3132,7 +3012,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3144,9 +3024,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1459,
+        "id": 1364,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 47,
         "route_id": 51,
         "lot_id": null,
@@ -3156,7 +3036,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3168,9 +3048,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1459,
+        "id": 1364,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 47,
         "route_id": 51,
         "lot_id": null,
@@ -3180,7 +3060,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3192,9 +3072,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1459,
+        "id": 1364,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 47,
         "route_id": 51,
         "lot_id": null,
@@ -3204,7 +3084,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3216,9 +3096,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1459,
+        "id": 1364,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 47,
         "route_id": 51,
         "lot_id": null,
@@ -3228,7 +3108,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3240,9 +3120,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1460,
+        "id": 1365,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 48,
         "route_id": 51,
         "lot_id": null,
@@ -3252,7 +3132,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3264,9 +3144,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1460,
+        "id": 1365,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 48,
         "route_id": 51,
         "lot_id": null,
@@ -3276,7 +3156,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3288,9 +3168,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1460,
+        "id": 1365,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 48,
         "route_id": 51,
         "lot_id": null,
@@ -3300,7 +3180,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3312,9 +3192,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1460,
+        "id": 1365,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 48,
         "route_id": 51,
         "lot_id": null,
@@ -3324,7 +3204,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3336,9 +3216,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1460,
+        "id": 1365,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 48,
         "route_id": 51,
         "lot_id": null,
@@ -3348,7 +3228,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3360,9 +3240,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1461,
+        "id": 1366,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 13,
         "route_id": 51,
         "lot_id": null,
@@ -3384,9 +3264,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1461,
+        "id": 1366,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 13,
         "route_id": 51,
         "lot_id": null,
@@ -3408,9 +3288,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1461,
+        "id": 1366,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 13,
         "route_id": 51,
         "lot_id": null,
@@ -3432,9 +3312,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1461,
+        "id": 1366,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 13,
         "route_id": 51,
         "lot_id": null,
@@ -3456,9 +3336,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1461,
+        "id": 1366,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 13,
         "route_id": 51,
         "lot_id": null,
@@ -3480,9 +3360,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1462,
+        "id": 1367,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 49,
         "route_id": 51,
         "lot_id": null,
@@ -3492,7 +3372,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3504,9 +3384,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1462,
+        "id": 1367,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 49,
         "route_id": 51,
         "lot_id": null,
@@ -3516,7 +3396,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3528,9 +3408,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1462,
+        "id": 1367,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 49,
         "route_id": 51,
         "lot_id": null,
@@ -3540,7 +3420,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3552,9 +3432,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1462,
+        "id": 1367,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 49,
         "route_id": 51,
         "lot_id": null,
@@ -3564,7 +3444,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3576,9 +3456,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1463,
+        "id": 1368,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 50,
         "route_id": 51,
         "lot_id": null,
@@ -3600,9 +3480,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1463,
+        "id": 1368,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 50,
         "route_id": 51,
         "lot_id": null,
@@ -3624,9 +3504,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1463,
+        "id": 1368,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 50,
         "route_id": 51,
         "lot_id": null,
@@ -3648,9 +3528,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1463,
+        "id": 1368,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 50,
         "route_id": 51,
         "lot_id": null,
@@ -3672,9 +3552,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1464,
+        "id": 1369,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 51,
         "route_id": 51,
         "lot_id": null,
@@ -3684,7 +3564,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 25,
+        "shipowner_id": 24,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3696,9 +3576,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1464,
+        "id": 1369,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 51,
         "route_id": 51,
         "lot_id": null,
@@ -3708,7 +3588,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 25,
+        "shipowner_id": 24,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3720,9 +3600,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1464,
+        "id": 1369,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 51,
         "route_id": 51,
         "lot_id": null,
@@ -3732,7 +3612,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 25,
+        "shipowner_id": 24,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3744,9 +3624,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1464,
+        "id": 1369,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 51,
         "route_id": 51,
         "lot_id": null,
@@ -3756,7 +3636,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 25,
+        "shipowner_id": 24,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3768,9 +3648,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1464,
+        "id": 1369,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 51,
         "route_id": 51,
         "lot_id": null,
@@ -3780,7 +3660,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 25,
+        "shipowner_id": 24,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -3792,9 +3672,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1465,
+        "id": 1370,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 52,
         "route_id": 51,
         "lot_id": null,
@@ -3816,9 +3696,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -3840,9 +3720,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -3864,9 +3744,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -3888,9 +3768,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -3912,9 +3792,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1467,
+        "id": 1372,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 2,
         "route_id": 51,
         "lot_id": null,
@@ -3936,9 +3816,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1467,
+        "id": 1372,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 2,
         "route_id": 51,
         "lot_id": null,
@@ -3960,9 +3840,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1467,
+        "id": 1372,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 2,
         "route_id": 51,
         "lot_id": null,
@@ -3984,9 +3864,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1467,
+        "id": 1372,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 2,
         "route_id": 51,
         "lot_id": null,
@@ -4008,9 +3888,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1468,
+        "id": 1373,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 8,
         "route_id": 51,
         "lot_id": null,
@@ -4032,9 +3912,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1468,
+        "id": 1373,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 8,
         "route_id": 51,
         "lot_id": null,
@@ -4056,9 +3936,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1468,
+        "id": 1373,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 8,
         "route_id": 51,
         "lot_id": null,
@@ -4080,9 +3960,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1468,
+        "id": 1373,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 8,
         "route_id": 51,
         "lot_id": null,
@@ -4104,9 +3984,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1469,
+        "id": 1374,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 55,
         "route_id": 51,
         "lot_id": null,
@@ -4116,7 +3996,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -4128,9 +4008,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1469,
+        "id": 1374,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 55,
         "route_id": 51,
         "lot_id": null,
@@ -4140,7 +4020,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -4152,9 +4032,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1469,
+        "id": 1374,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 55,
         "route_id": 51,
         "lot_id": null,
@@ -4164,7 +4044,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -4176,9 +4056,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1469,
+        "id": 1374,
         "status": true,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 55,
         "route_id": 51,
         "lot_id": null,
@@ -4188,7 +4068,7 @@
             "number": 1,
             "berth_letter": "В"
         },
-        "shipowner_id": 24,
+        "shipowner_id": 23,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -4200,9 +4080,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -4224,9 +4104,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -4248,9 +4128,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -4272,9 +4152,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -4296,9 +4176,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1466,
+        "id": 1371,
         "status": false,
-        "dock_id": 15,
+        "dock_id": 14,
         "ship_id": 20,
         "route_id": 51,
         "lot_id": null,
@@ -4320,7 +4200,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1470,
+        "id": 1375,
         "status": false,
         "dock_id": 6,
         "ship_id": 11,
@@ -4344,7 +4224,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1470,
+        "id": 1375,
         "status": false,
         "dock_id": 6,
         "ship_id": 11,
@@ -4368,7 +4248,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1470,
+        "id": 1375,
         "status": false,
         "dock_id": 6,
         "ship_id": 11,
@@ -4392,7 +4272,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1470,
+        "id": 1375,
         "status": false,
         "dock_id": 6,
         "ship_id": 11,
@@ -4416,7 +4296,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1470,
+        "id": 1375,
         "status": false,
         "dock_id": 6,
         "ship_id": 11,
@@ -4440,7 +4320,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1471,
+        "id": 1376,
         "status": false,
         "dock_id": 6,
         "ship_id": 57,
@@ -4464,7 +4344,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1471,
+        "id": 1376,
         "status": false,
         "dock_id": 6,
         "ship_id": 57,
@@ -4488,7 +4368,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1471,
+        "id": 1376,
         "status": false,
         "dock_id": 6,
         "ship_id": 57,
@@ -4512,7 +4392,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1471,
+        "id": 1376,
         "status": false,
         "dock_id": 6,
         "ship_id": 57,
@@ -4536,7 +4416,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1471,
+        "id": 1376,
         "status": false,
         "dock_id": 6,
         "ship_id": 57,
@@ -4560,7 +4440,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1471,
+        "id": 1376,
         "status": false,
         "dock_id": 6,
         "ship_id": 57,
@@ -4584,7 +4464,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1472,
+        "id": 1377,
         "status": true,
         "dock_id": 6,
         "ship_id": 3,
@@ -4608,7 +4488,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1472,
+        "id": 1377,
         "status": true,
         "dock_id": 6,
         "ship_id": 3,
@@ -4632,7 +4512,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1472,
+        "id": 1377,
         "status": true,
         "dock_id": 6,
         "ship_id": 3,
@@ -4656,7 +4536,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1472,
+        "id": 1377,
         "status": true,
         "dock_id": 6,
         "ship_id": 3,
@@ -4680,7 +4560,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1472,
+        "id": 1377,
         "status": false,
         "dock_id": 6,
         "ship_id": 3,
@@ -4704,7 +4584,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1473,
+        "id": 1378,
         "status": true,
         "dock_id": 6,
         "ship_id": 59,
@@ -4728,7 +4608,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1473,
+        "id": 1378,
         "status": true,
         "dock_id": 6,
         "ship_id": 59,
@@ -4752,7 +4632,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1473,
+        "id": 1378,
         "status": true,
         "dock_id": 6,
         "ship_id": 59,
@@ -4776,7 +4656,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1473,
+        "id": 1378,
         "status": true,
         "dock_id": 6,
         "ship_id": 59,
@@ -4800,7 +4680,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1473,
+        "id": 1378,
         "status": true,
         "dock_id": 6,
         "ship_id": 59,
@@ -4824,7 +4704,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1473,
+        "id": 1378,
         "status": true,
         "dock_id": 6,
         "ship_id": 59,
@@ -4848,7 +4728,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": false,
         "dock_id": 6,
         "ship_id": 60,
@@ -4872,7 +4752,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": false,
         "dock_id": 6,
         "ship_id": 60,
@@ -4896,7 +4776,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": false,
         "dock_id": 6,
         "ship_id": 60,
@@ -4920,7 +4800,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": false,
         "dock_id": 6,
         "ship_id": 60,
@@ -4944,7 +4824,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": false,
         "dock_id": 6,
         "ship_id": 60,
@@ -4968,7 +4848,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": false,
         "dock_id": 6,
         "ship_id": 60,
@@ -4992,7 +4872,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1475,
+        "id": 1380,
         "status": true,
         "dock_id": 6,
         "ship_id": 61,
@@ -5016,7 +4896,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1475,
+        "id": 1380,
         "status": true,
         "dock_id": 6,
         "ship_id": 61,
@@ -5040,7 +4920,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1475,
+        "id": 1380,
         "status": true,
         "dock_id": 6,
         "ship_id": 61,
@@ -5064,7 +4944,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1475,
+        "id": 1380,
         "status": true,
         "dock_id": 6,
         "ship_id": 61,
@@ -5088,7 +4968,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1475,
+        "id": 1380,
         "status": true,
         "dock_id": 6,
         "ship_id": 61,
@@ -5112,7 +4992,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1476,
+        "id": 1381,
         "status": false,
         "dock_id": 6,
         "ship_id": 14,
@@ -5136,7 +5016,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": true,
         "dock_id": 6,
         "ship_id": 60,
@@ -5160,7 +5040,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": true,
         "dock_id": 6,
         "ship_id": 60,
@@ -5184,7 +5064,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": true,
         "dock_id": 6,
         "ship_id": 60,
@@ -5208,7 +5088,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": true,
         "dock_id": 6,
         "ship_id": 60,
@@ -5232,7 +5112,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1474,
+        "id": 1379,
         "status": true,
         "dock_id": 6,
         "ship_id": 60,
@@ -5256,295 +5136,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1477,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 62,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 1,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1477,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 62,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1477,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 62,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1477,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 62,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1477,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 62,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1477,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 62,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1478,
-        "status": false,
-        "dock_id": 6,
-        "ship_id": 63,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 1,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1478,
-        "status": true,
-        "dock_id": 6,
-        "ship_id": 63,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1478,
-        "status": true,
-        "dock_id": 6,
-        "ship_id": 63,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1478,
-        "status": true,
-        "dock_id": 6,
-        "ship_id": 63,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1478,
-        "status": true,
-        "dock_id": 6,
-        "ship_id": 63,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1478,
-        "status": true,
-        "dock_id": 6,
-        "ship_id": 63,
-        "route_id": 52,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 29,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1479,
+        "id": 1382,
         "status": false,
         "dock_id": 6,
         "ship_id": 17,
@@ -5568,7 +5160,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1479,
+        "id": 1382,
         "status": true,
         "dock_id": 6,
         "ship_id": 17,
@@ -5592,7 +5184,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1479,
+        "id": 1382,
         "status": true,
         "dock_id": 6,
         "ship_id": 17,
@@ -5616,7 +5208,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1479,
+        "id": 1382,
         "status": true,
         "dock_id": 6,
         "ship_id": 17,
@@ -5640,7 +5232,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1479,
+        "id": 1382,
         "status": true,
         "dock_id": 6,
         "ship_id": 17,
@@ -5664,7 +5256,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 1479,
+        "id": 1382,
         "status": false,
         "dock_id": 6,
         "ship_id": 17,
@@ -5688,10 +5280,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": false,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 2,
@@ -5700,7 +5292,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5712,10 +5304,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 3,
@@ -5724,7 +5316,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5736,10 +5328,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 4,
@@ -5748,7 +5340,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5760,10 +5352,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 5,
@@ -5772,7 +5364,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5784,10 +5376,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 6,
@@ -5796,7 +5388,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5808,10 +5400,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 7,
@@ -5820,7 +5412,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5832,10 +5424,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 8,
@@ -5844,7 +5436,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5856,10 +5448,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 9,
@@ -5868,7 +5460,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5880,10 +5472,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 10,
@@ -5892,7 +5484,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5904,10 +5496,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1480,
+        "id": 1383,
         "status": true,
-        "dock_id": 18,
-        "ship_id": 64,
+        "dock_id": 16,
+        "ship_id": 91,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 11,
@@ -5916,7 +5508,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 30,
+        "shipowner_id": 18,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -5928,9 +5520,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -5952,9 +5544,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -5976,9 +5568,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6000,9 +5592,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6024,9 +5616,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6048,9 +5640,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6072,9 +5664,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6096,9 +5688,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6120,9 +5712,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6144,9 +5736,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1481,
+        "id": 1384,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 27,
         "route_id": 53,
         "lot_id": null,
@@ -6168,9 +5760,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6180,7 +5772,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6192,9 +5784,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6204,7 +5796,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6216,9 +5808,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6228,7 +5820,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6240,9 +5832,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6252,7 +5844,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6264,9 +5856,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6276,7 +5868,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6288,9 +5880,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6300,7 +5892,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6312,9 +5904,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6324,7 +5916,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6336,9 +5928,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6348,7 +5940,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6360,9 +5952,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6372,7 +5964,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6384,9 +5976,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6396,7 +5988,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6408,9 +6000,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1482,
+        "id": 1385,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 66,
         "route_id": 53,
         "lot_id": null,
@@ -6420,7 +6012,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 23,
+        "shipowner_id": 22,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6432,10 +6024,10 @@
         "winner_ship_id": null
     },
     {
-        "id": 1483,
+        "id": 1386,
         "status": false,
-        "dock_id": 18,
-        "ship_id": 67,
+        "dock_id": 16,
+        "ship_id": 90,
         "route_id": 53,
         "lot_id": null,
         "trip_id": 2,
@@ -6444,7 +6036,7 @@
             "number": 1,
             "berth_letter": "С"
         },
-        "shipowner_id": 32,
+        "shipowner_id": 17,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -6456,9 +6048,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6480,9 +6072,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6504,9 +6096,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6528,9 +6120,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6552,9 +6144,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6576,9 +6168,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6600,9 +6192,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6624,9 +6216,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6648,9 +6240,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1484,
+        "id": 1387,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 121,
         "route_id": 53,
         "lot_id": null,
@@ -6672,9 +6264,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6696,9 +6288,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6720,9 +6312,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6744,9 +6336,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6768,9 +6360,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6792,9 +6384,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6816,9 +6408,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6840,9 +6432,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6864,9 +6456,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": true,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6888,9 +6480,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1485,
+        "id": 1388,
         "status": false,
-        "dock_id": 18,
+        "dock_id": 16,
         "ship_id": 68,
         "route_id": 53,
         "lot_id": null,
@@ -6912,9 +6504,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -6936,9 +6528,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -6960,9 +6552,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -6984,9 +6576,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -7008,9 +6600,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -7032,9 +6624,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -7056,9 +6648,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1486,
+        "id": 1389,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 69,
         "route_id": 54,
         "lot_id": null,
@@ -7080,9 +6672,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7104,9 +6696,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7128,9 +6720,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7152,9 +6744,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7176,9 +6768,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7200,9 +6792,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7224,9 +6816,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1487,
+        "id": 1390,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 70,
         "route_id": 54,
         "lot_id": null,
@@ -7248,105 +6840,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1488,
-        "status": true,
-        "dock_id": 21,
-        "ship_id": 94,
-        "route_id": 54,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 41,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1488,
-        "status": true,
-        "dock_id": 21,
-        "ship_id": 94,
-        "route_id": 54,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 41,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1488,
-        "status": true,
-        "dock_id": 21,
-        "ship_id": 94,
-        "route_id": 54,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 41,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1488,
-        "status": true,
-        "dock_id": 21,
-        "ship_id": 94,
-        "route_id": 54,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "А"
-        },
-        "shipowner_id": 41,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1489,
+        "id": 1391,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 71,
         "route_id": 54,
         "lot_id": null,
@@ -7356,7 +6852,7 @@
             "number": 1,
             "berth_letter": "А"
         },
-        "shipowner_id": 33,
+        "shipowner_id": 26,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -7368,9 +6864,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1489,
+        "id": 1391,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 71,
         "route_id": 54,
         "lot_id": null,
@@ -7380,7 +6876,7 @@
             "number": 1,
             "berth_letter": "А"
         },
-        "shipowner_id": 33,
+        "shipowner_id": 26,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -7392,9 +6888,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1489,
+        "id": 1391,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 71,
         "route_id": 54,
         "lot_id": null,
@@ -7404,7 +6900,7 @@
             "number": 1,
             "berth_letter": "А"
         },
-        "shipowner_id": 33,
+        "shipowner_id": 26,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -7416,9 +6912,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1489,
+        "id": 1391,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 71,
         "route_id": 54,
         "lot_id": null,
@@ -7428,7 +6924,7 @@
             "number": 1,
             "berth_letter": "А"
         },
-        "shipowner_id": 33,
+        "shipowner_id": 26,
         "timetable": {
             "start_date": null,
             "end_date": null,
@@ -7440,9 +6936,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7464,9 +6960,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7488,9 +6984,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7512,9 +7008,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7536,9 +7032,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7560,9 +7056,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7584,9 +7080,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1490,
+        "id": 1392,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 26,
         "route_id": 54,
         "lot_id": null,
@@ -7608,9 +7104,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7632,9 +7128,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7656,9 +7152,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7680,9 +7176,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7704,9 +7200,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7728,9 +7224,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7752,9 +7248,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1491,
+        "id": 1393,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 72,
         "route_id": 54,
         "lot_id": null,
@@ -7776,9 +7272,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7800,9 +7296,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7824,9 +7320,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7848,9 +7344,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7872,9 +7368,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": true,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7896,9 +7392,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7920,9 +7416,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1492,
+        "id": 1394,
         "status": false,
-        "dock_id": 21,
+        "dock_id": 19,
         "ship_id": 73,
         "route_id": 54,
         "lot_id": null,
@@ -7944,753 +7440,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 538,
+        "id": 1395,
         "status": false,
-        "dock_id": 4,
-        "ship_id": 74,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 538,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 74,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 538,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 74,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 538,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 74,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 538,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 74,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 538,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 74,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 7,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": true,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 1,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": true,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": true,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": true,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": true,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": true,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 539,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 75,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 7,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 34,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 540,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 76,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 540,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 76,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 540,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 76,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 540,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 76,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 540,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 76,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 540,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 76,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 7,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 541,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 77,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 541,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 77,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 541,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 77,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 541,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 77,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 541,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 77,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 541,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 77,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 7,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 542,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 78,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 2,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 542,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 78,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 3,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 542,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 78,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 4,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 542,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 78,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 5,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 542,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 78,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 6,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 542,
-        "status": false,
-        "dock_id": 4,
-        "ship_id": 78,
-        "route_id": 25,
-        "lot_id": null,
-        "trip_id": 7,
-        "position": {
-            "board": 1,
-            "number": 1,
-            "berth_letter": "В"
-        },
-        "shipowner_id": 21,
-        "timetable": {
-            "start_date": null,
-            "end_date": null,
-            "start_time": null,
-            "end_time": null,
-            "duration": null
-        },
-        "cancel_schedule_id": null,
-        "winner_ship_id": null
-    },
-    {
-        "id": 1493,
-        "status": false,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8712,9 +7464,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": false,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8736,9 +7488,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8760,9 +7512,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8784,9 +7536,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8808,9 +7560,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8832,9 +7584,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8856,9 +7608,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8880,9 +7632,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8904,9 +7656,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8928,9 +7680,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8952,9 +7704,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -8976,9 +7728,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": true,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -9000,9 +7752,9 @@
         "winner_ship_id": null
     },
     {
-        "id": 1493,
+        "id": 1395,
         "status": false,
-        "dock_id": 24,
+        "dock_id": 22,
         "ship_id": 79,
         "route_id": 55,
         "lot_id": null,
@@ -9024,7 +7776,7 @@
         "winner_ship_id": null
     },
     {
-        "id": 123,
+        "id": 113,
         "status": true,
         "dock_id": 5,
         "ship_id": 23,
