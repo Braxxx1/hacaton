@@ -1,0 +1,340 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "ООО Все теплоходы",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 2,
+            "name": "ООО Адмиралъ",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 3,
+            "name": "ООО Ривер Сайт",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 4,
+            "name": "ИП Каплин Александр Евгеньевич",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 5,
+            "name": "ООО СК Золотой остров",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 6,
+            "name": "ООО СК Августина",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 7,
+            "name": "ИП Ступкина Юлия Николаевна",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 8,
+            "name": "ИП Смирнов Андрей Валерьевич",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 9,
+            "name": "ИП Бачурин Иван Алексеевич",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 10,
+            "name": "ИП Булычев Алексей Юрьевич",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 11,
+            "name": "ООО Фрегат",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 12,
+            "name": "ООО Ривер",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 13,
+            "name": "ООО Иридда",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 14,
+            "name": "ИП Белова Екатерина Алексеевна",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 15,
+            "name": "ИП Нагин Евгений Викторович",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 16,
+            "name": "ООО Колхида",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 17,
+            "name": "ООО Центр Паломничества",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 18,
+            "name": "ООО Речфлот",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 19,
+            "name": "ИП Иванчикова Анна Викторовна",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 20,
+            "name": "ООО СК Пароходъ",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 21,
+            "name": "ООО \"ТА \"Мегафлот\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 22,
+            "name": "ООО \"Все Теплоходы\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 23,
+            "name": "ООО \"Мосфлот\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 24,
+            "name": "ООО \"УК ФЛОТСЕРВИС\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 25,
+            "name": "ИП Храмцова Наталья Юрьевна",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 26,
+            "name": "ООО \"Адмиралъ\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 27,
+            "name": "ООО \"СК Августина\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 28,
+            "name": "ООО УК Речные Линии",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 29,
+            "name": "ООО \"УК Речные Линии\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 30,
+            "name": "ООО \"Речфлот\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 31,
+            "name": "ООО \"Колхида\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 32,
+            "name": "ООО \"Центр Паломничества\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 33,
+            "name": "ООО \"Водное такси\"",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 34,
+            "name": "ИП Зыбин Сергей Александрович",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 35,
+            "name": "ООО Конкорд М",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 36,
+            "name": "ООО Мосфлот",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 37,
+            "name": "ООО УК Золотой остров",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 38,
+            "name": "АО Крокус Интернэшнл",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 39,
+            "name": "ООО Яр-яхтинг",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 40,
+            "name": "ИП Зыбин Сергей Александрович ",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 41,
+            "name": "ООО Водное такси",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        },
+        {
+            "id": 42,
+            "name": "ООО Флотилия",
+            "inn": null,
+            "ogrn": null,
+            "contacts": null,
+            "url": null
+        }
+    ]
+}

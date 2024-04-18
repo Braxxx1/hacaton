@@ -1,0 +1,1636 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Жемчужина",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 2,
+            "name": "Адмиралъ",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 2,
+                "name": "ООО Адмиралъ"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 3,
+            "name": "М-88",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 2,
+                "name": "ООО Адмиралъ"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 4,
+            "name": "Флибустьер",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 3,
+                "name": "ООО Ривер Сайт"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 5,
+            "name": "Ривьера",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 4,
+                "name": "ИП Каплин Александр Евгеньевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 6,
+            "name": "Богема",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 5,
+                "name": "ООО СК Золотой остров"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 7,
+            "name": "Соболь",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 6,
+                "name": "ООО СК Августина"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 8,
+            "name": "Алексия",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 6,
+                "name": "ООО СК Августина"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 9,
+            "name": "Благодать",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 10,
+            "name": "Счастье",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 11,
+            "name": "Москва-28",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 7,
+                "name": "ИП Ступкина Юлия Николаевна"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 12,
+            "name": "Лагуна",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 4,
+                "name": "ИП Каплин Александр Евгеньевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 13,
+            "name": "Москва-21",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 8,
+                "name": "ИП Смирнов Андрей Валерьевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 14,
+            "name": "Москва-61",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 15,
+            "name": "Надежда",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 10,
+                "name": "ИП Булычев Алексей Юрьевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 16,
+            "name": "Августина",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 6,
+                "name": "ООО СК Августина"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 17,
+            "name": "Олимпиада",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 18,
+            "name": "Маэстро",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 19,
+            "name": "Артурс",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 11,
+                "name": "ООО Фрегат"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 20,
+            "name": "Москва-46",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 8,
+                "name": "ИП Смирнов Андрей Валерьевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 21,
+            "name": "Ривер Лаундж",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 12,
+                "name": "ООО Ривер"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 22,
+            "name": "Уникум",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 4,
+                "name": "ИП Каплин Александр Евгеньевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 23,
+            "name": "Чижик-II",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 24,
+            "name": "Царица Елена",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 13,
+                "name": "ООО Иридда"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 25,
+            "name": "Светоч",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 14,
+                "name": "ИП Белова Екатерина Алексеевна"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 26,
+            "name": "Москва Ривер",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 15,
+                "name": "ИП Нагин Евгений Викторович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 27,
+            "name": "Мария",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 16,
+                "name": "ООО Колхида"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 28,
+            "name": "Советский Союз",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 17,
+                "name": "ООО Центр Паломничества"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 29,
+            "name": "Рио-1",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 4,
+                "name": "ИП Каплин Александр Евгеньевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 30,
+            "name": "Мечта",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 31,
+            "name": "Лагуна",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 18,
+                "name": "ООО Речфлот"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 32,
+            "name": "Анна Каренина",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 18,
+                "name": "ООО Речфлот"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 33,
+            "name": "Москва-89",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 19,
+                "name": "ИП Иванчикова Анна Викторовна"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 34,
+            "name": "Портъ-Артуръ 2.0",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 18,
+                "name": "ООО Речфлот"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 35,
+            "name": "Союз",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 20,
+                "name": "ООО СК Пароходъ"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 36,
+            "name": "Рио",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 37,
+            "name": "Радость",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 22,
+                "name": "ООО \"Все Теплоходы\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 38,
+            "name": "Организатор",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 39,
+            "name": "Удача",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 22,
+                "name": "ООО \"Все Теплоходы\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 40,
+            "name": "Михаил Сеспель",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 41,
+            "name": "Фортуна",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 22,
+                "name": "ООО \"Все Теплоходы\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 42,
+            "name": "Вещий Олег",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 43,
+            "name": "Романтика",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 22,
+                "name": "ООО \"Все Теплоходы\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 44,
+            "name": "Свобода",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 23,
+                "name": "ООО \"Мосфлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 45,
+            "name": "Мечта",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 22,
+                "name": "ООО \"Все Теплоходы\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 46,
+            "name": "Егорий",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 47,
+            "name": "Прага",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 23,
+                "name": "ООО \"Мосфлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 48,
+            "name": "Добрыня",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 23,
+                "name": "ООО \"Мосфлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 49,
+            "name": "Морис",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 24,
+                "name": "ООО \"УК ФЛОТСЕРВИС\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 50,
+            "name": "Алина Прима",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 51,
+            "name": "Флагман",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 25,
+                "name": "ИП Храмцова Наталья Юрьевна"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 52,
+            "name": "Москва-24",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 8,
+                "name": "ИП Смирнов Андрей Валерьевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 53,
+            "name": "Адмиралъ",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 26,
+                "name": "ООО \"Адмиралъ\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 54,
+            "name": "Алексия",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 27,
+                "name": "ООО \"СК Августина\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 55,
+            "name": "Волна",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 24,
+                "name": "ООО \"УК ФЛОТСЕРВИС\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 56,
+            "name": "Снегири-1",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 28,
+                "name": "ООО УК Речные Линии"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 57,
+            "name": "Юнга",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 58,
+            "name": "М-88",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 26,
+                "name": "ООО \"Адмиралъ\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 59,
+            "name": "ОМ-349",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 60,
+            "name": "Москва-51",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 61,
+            "name": "Алина Браво",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 62,
+            "name": "Снегири-2",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 29,
+                "name": "ООО \"УК Речные Линии\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 63,
+            "name": "Снегири-3",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 29,
+                "name": "ООО \"УК Речные Линии\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 64,
+            "name": "Советский союз",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 30,
+                "name": "ООО \"Речфлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 65,
+            "name": "Мария",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 31,
+                "name": "ООО \"Колхида\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 66,
+            "name": "Вдохновение",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 23,
+                "name": "ООО \"Мосфлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 67,
+            "name": "Кристалл",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 32,
+                "name": "ООО \"Центр Паломничества\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 68,
+            "name": "Алина Танго",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 69,
+            "name": "Идегей",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 15,
+                "name": "ИП Нагин Евгений Викторович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 70,
+            "name": "Столица-1",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 15,
+                "name": "ИП Нагин Евгений Викторович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 71,
+            "name": "Конкорд",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 33,
+                "name": "ООО \"Водное такси\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 72,
+            "name": "Венеция",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 15,
+                "name": "ИП Нагин Евгений Викторович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 73,
+            "name": "Столица-2",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 15,
+                "name": "ИП Нагин Евгений Викторович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 74,
+            "name": "М-270",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 34,
+                "name": "ИП Зыбин Сергей Александрович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 75,
+            "name": "Натали",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 34,
+                "name": "ИП Зыбин Сергей Александрович"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 76,
+            "name": "Роза Ветров",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 77,
+            "name": "Капитан Смолик",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 78,
+            "name": "М-250",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 21,
+                "name": "ООО \"ТА \"Мегафлот\""
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 79,
+            "name": "Амстердам",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 9,
+                "name": "ИП Бачурин Иван Алексеевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 80,
+            "name": "Ривер Палас",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 35,
+                "name": "ООО Конкорд М"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 81,
+            "name": "Ривер Палас-2",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 12,
+                "name": "ООО Ривер"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 82,
+            "name": "Удача",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 83,
+            "name": "Романтика",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 84,
+            "name": "Дельфин-1",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 4,
+                "name": "ИП Каплин Александр Евгеньевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 85,
+            "name": "Легенда",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 36,
+                "name": "ООО Мосфлот"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 86,
+            "name": "Богема",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 37,
+                "name": "ООО УК Золотой остров"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 87,
+            "name": "Крокус",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 38,
+                "name": "АО Крокус Интернэшнл"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 88,
+            "name": "Забава",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 39,
+                "name": "ООО Яр-яхтинг"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 89,
+            "name": "Фортуна",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 1,
+                "name": "ООО Все теплоходы"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 90,
+            "name": "Кристалл",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 17,
+                "name": "ООО Центр Паломничества"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 91,
+            "name": "Советский союз",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 18,
+                "name": "ООО Речфлот"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 92,
+            "name": "Натали",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 40,
+                "name": "ИП Зыбин Сергей Александрович "
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 93,
+            "name": "Рио-4",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 4,
+                "name": "ИП Каплин Александр Евгеньевич"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 94,
+            "name": "Фараон",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 41,
+                "name": "ООО Водное такси"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 95,
+            "name": "Конкорд",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 41,
+                "name": "ООО Водное такси"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        },
+        {
+            "id": 96,
+            "name": "Бон Вояж",
+            "class": {
+                "id": 1,
+                "name": "Пассажирский флот",
+                "code": "pass"
+            },
+            "shipowner": {
+                "id": 42,
+                "name": "ООО Флотилия"
+            },
+            "boat_num": null,
+            "capacity": null,
+            "description": null,
+            "model": null
+        }
+    ]
+}
