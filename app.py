@@ -20,7 +20,7 @@ list_num = 1
 for file in files:
     print(list_num)
     list_num += 1
-    if list_num < 16:
+    if list_num < 3:
         for sheets in sheets_names:
             print(sheets)
             df = pd.read_excel(file['file'], sheet_name=sheets)
@@ -32,7 +32,7 @@ list_num = 1
 for file in files:
     print(list_num)
     list_num += 1
-    if list_num < 16:
+    if list_num < 3:
         for sheets in sheets_names:
             print(sheets)
             df = pd.read_excel(file['file'], sheet_name=sheets)

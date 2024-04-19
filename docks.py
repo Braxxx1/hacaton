@@ -8,9 +8,9 @@ def get_ower(df):
     selected_columns = df_temp.iloc[:, 7:]
     for j_columns in range(1, selected_columns.shape[1], 3):
         select = selected_columns.iloc[0, j_columns]
-        temp_set = berth.get(select, set())
+        temp_set = berth.get(' '.join(select.strip().lower().split("-")), set())
         unique_values = set(filter(lambda x: isinstance(x, str), selected_columns.iloc[2:,j_columns-1].unique()))
-        berth[select] = temp_set | unique_values
+        berth[' '.join(select.strip().lower().split("-"))] = temp_set | unique_values
         if ' '.join(select.strip().lower().split("-")) not in docks_set:
             docks_set.add(' '.join(select.strip().lower().split("-")))
             temp_dict = {
@@ -47,9 +47,9 @@ def get_ones(df_temp):
     for index, row in no_duplicates.iterrows():
         name_dock, name_sh = row.values[0], row.values[1]
         if name_dock != 'СРВ' and name_sh != '-':
-            temp_set = berth.get(name_dock, set())
+            temp_set = berth.get(' '.join(name_dock.strip().lower().split("-")), set())
             unique_values = set(name_sh)
-            berth[name_dock] = temp_set | unique_values
+            berth[' '.join(name_dock.strip().lower().split("-"))] = temp_set | unique_values
             if ' '.join(name_dock.strip().lower().split("-")) not in docks_set:
                 docks_set.add(' '.join(name_dock.strip().lower().split("-")))
                 temp_dict = {
@@ -88,7 +88,7 @@ def get_dok_sh(df, column):
 def plus():  
     id_sh = 1
     for i_dock in range(len(docks_list)):
-        temp_sh = berth[docks_list[i_dock]["name"]]
+        temp_sh = berth[' '.join(docks_list[i_dock]["name"].strip().lower().split("-"))]
         docks_list[i_dock]["berth_cnt"] = len(temp_sh)
         temp_list = []
         for sh_name in sorted(list(temp_sh)):
